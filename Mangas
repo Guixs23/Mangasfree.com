@@ -1,0 +1,1495 @@
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br">
+ <head> 
+  <link rel="alternate" href="https://mangasfree.com/" hreflang="pt-br"> 
+  <meta property="og:image" content="http://mangalivre.net/assets/images/icon-facebook.png"> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <meta name="keywords" content="mangasfree, mangás, mangas, online, mangas online, naruto, one piece, leia, ler, leitor online, nanatsu no taizai, one punch man, fairy tail, mangá, manga"> 
+  <meta name="description" content="Leia online e organize suas leituras aqui. Leia antes em português (PT-BR) os mangás e webtoons mais lidas de ação, romance, fantasia, isekai e outros!"> 
+  <meta property="fb:pages" content="456238451158977"> 
+  <link rel="stylesheet" href="/assets/css/reset.min.css?_v=1.23.1" type="text/css"> 
+  <link rel="stylesheet" href="/assets/css/style.min.css?id=4b82c0764a29598a7919" type="text/css"> 
+  <link rel="stylesheet" href="/assets/css/barra.min.css?id=6ec3f9fbcfa24425112c" type="text/css"> 
+  <link rel="stylesheet" href="/assets/css/gooeymenu.min.css?_v=1.23.1" type="text/css"> 
+  <link rel="stylesheet" href="/assets/css/responsive.min.css?id=28c8dbcf015568d93d4d" type="text/css"> 
+  <link href="/assets/images/favicon.png?favicon" rel="icon" type="image/png"> 
+  <link href="/assets/images/favicon.png?favicon" rel="shortcut icon" type="image/png"> 
+  <link href="/assets/images/icon-apple.png" rel="apple-touch-icon" type="image/png"> 
+  <link href="/assets/images/icon-apple.png" rel="apple-touch-icon-precomposed" type="image/png"> 
+  <link href="/manifest.json?_v=1.23.1" rel="manifest"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0001, minimum-scale=1.0001, maximum-scale=1.0001, user-scalable=no"> 
+  <meta name="apple-mobile-web-app-capable" content="yes"> 
+  <meta name="apple-mobile-web-app-title" content="Mangas"> 
+  <meta name="mobile-web-app-capable" content="yes"> 
+  <!-- Chrome, Firefox OS and Opera --> 
+  <meta name="theme-color" content="#202020"> 
+  <!-- Windows Phone --> 
+  <meta name="msapplication-navbutton-color" content="#202020"> 
+  <!-- iOS Safari --> 
+  <meta name="apple-mobile-web-app-status-bar-style" content="#202020"> 
+  <script>
+            var shouldHideTopnav = true;
+        </script> 
+  <title>Manga Livre | Leitor Online e Host de Mangás PT-BR!</title> 
+  <meta name="purpleads-verification" content="d807116b308e47a60f8390a5"> 
+  <meta http-equiv="origin-trial" content="AzoawhTRDevLR66Y6MROu167EDncFPBvcKOaQispTo9ouEt5LvcBjnRFqiAByRT+2cDHG1Yj4dXwpLeIhc98/gIAAACFeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjYxMjk5MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==">
+  <meta http-equiv="origin-trial" content="A6+nc62kbJgC46ypOwRsNW6RkDn2x7tgRh0wp7jb3DtFF7oEhu1hhm4rdZHZ6zXvnKZLlYcBlQUImC4d3kKihAcAAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjYxMjk5MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==">
+  <meta http-equiv="origin-trial" content="A/9La288e7MDEU2ifusFnMg1C2Ij6uoa/Z/ylwJIXSsWfK37oESIPbxbt4IU86OGqDEPnNVruUiMjfKo65H/CQwAAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjYxMjk5MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==">
+  <meta http-equiv="origin-trial" content="AzoawhTRDevLR66Y6MROu167EDncFPBvcKOaQispTo9ouEt5LvcBjnRFqiAByRT+2cDHG1Yj4dXwpLeIhc98/gIAAACFeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjYxMjk5MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==">
+  <meta http-equiv="origin-trial" content="A6+nc62kbJgC46ypOwRsNW6RkDn2x7tgRh0wp7jb3DtFF7oEhu1hhm4rdZHZ6zXvnKZLlYcBlQUImC4d3kKihAcAAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjYxMjk5MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==">
+  <meta http-equiv="origin-trial" content="A/9La288e7MDEU2ifusFnMg1C2Ij6uoa/Z/ylwJIXSsWfK37oESIPbxbt4IU86OGqDEPnNVruUiMjfKo65H/CQwAAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjYxMjk5MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==">
+  <meta http-equiv="origin-trial" content="AzoawhTRDevLR66Y6MROu167EDncFPBvcKOaQispTo9ouEt5LvcBjnRFqiAByRT+2cDHG1Yj4dXwpLeIhc98/gIAAACFeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjYxMjk5MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==">
+  <meta http-equiv="origin-trial" content="A6+nc62kbJgC46ypOwRsNW6RkDn2x7tgRh0wp7jb3DtFF7oEhu1hhm4rdZHZ6zXvnKZLlYcBlQUImC4d3kKihAcAAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjYxMjk5MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==">
+  <meta http-equiv="origin-trial" content="A/9La288e7MDEU2ifusFnMg1C2Ij6uoa/Z/ylwJIXSsWfK37oESIPbxbt4IU86OGqDEPnNVruUiMjfKo65H/CQwAAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjYxMjk5MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==">
+  <link rel="preload" href="https://adservice.google.com.br/adsid/integrator.js?domain=mangalivre.net" as="script" nonce="c9af4b7a-a98d-4b72-abcd-49dcfed13736"> 
+  <link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=mangalivre.net" as="script" nonce="c9af4b7a-a98d-4b72-abcd-49dcfed13736"> 
+  <link rel="preload" href="https://adservice.google.com.br/adsid/integrator.js?domain=mangalivre.net" as="script" nonce="c9af4b7a-a98d-4b72-abcd-49dcfed13736"> 
+  <link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=mangalivre.net" as="script" nonce="c9af4b7a-a98d-4b72-abcd-49dcfed13736"> 
+  <link rel="preload" href="https://adservice.google.com.br/adsid/integrator.js?domain=mangalivre.net" as="script" nonce="c9af4b7a-a98d-4b72-abcd-49dcfed13736"> 
+  <link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=mangalivre.net" as="script" nonce="c9af4b7a-a98d-4b72-abcd-49dcfed13736"> 
+  <style type="text/css" data-fbcssmodules="css:fb.css.base css:fb.css.dialog css:fb.css.iframewidget css:fb.css.customer_chat_plugin_iframe">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_dialog_advanced{border-radius:8px;padding:10px}.fb_dialog_content{background:#fff;color:#373737}.fb_dialog_close_icon{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{left:5px;right:auto;top:5px}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{height:100%;left:0;margin:0;overflow:visible;position:absolute;top:-10000px;transform:none;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{background:none;height:auto;min-height:initial;min-width:initial;width:auto}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{clear:both;color:#fff;display:block;font-size:18px;padding-top:20px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .4);bottom:0;left:0;min-height:100%;position:absolute;right:0;top:0;width:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_mobile .fb_dialog_iframe{position:sticky;top:0}.fb_dialog_content .dialog_header{background:linear-gradient(from(#738aba), to(#2c4987));border-bottom:1px solid;border-color:#043b87;box-shadow:white 0 1px 1px -1px inset;color:#fff;font:bold 14px Helvetica, sans-serif;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:linear-gradient(from(#4267B2), to(#2a4887));background-clip:padding-box;border:1px solid #29487d;border-radius:3px;display:inline-block;line-height:18px;margin-top:3px;max-width:85px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{background:none;border:none;color:#fff;font:bold 12px Helvetica, sans-serif;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #4a4a4a;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f5f6f7;border:1px solid #4a4a4a;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-position:50% 50%;background-repeat:no-repeat;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}
+.fb_mpn_mobile_landing_page_slide_out{animation-duration:200ms;animation-name:fb_mpn_landing_page_slide_out;transition-timing-function:ease-in}.fb_mpn_mobile_landing_page_slide_out_from_left{animation-duration:200ms;animation-name:fb_mpn_landing_page_slide_out_from_left;transition-timing-function:ease-in}.fb_mpn_mobile_landing_page_slide_up{animation-duration:500ms;animation-name:fb_mpn_landing_page_slide_up;transition-timing-function:ease-in}.fb_mpn_mobile_bounce_in{animation-duration:300ms;animation-name:fb_mpn_bounce_in;transition-timing-function:ease-in}.fb_mpn_mobile_bounce_out{animation-duration:300ms;animation-name:fb_mpn_bounce_out;transition-timing-function:ease-in}.fb_mpn_mobile_bounce_out_v2{animation-duration:300ms;animation-name:fb_mpn_fade_out;transition-timing-function:ease-in}.fb_customer_chat_bounce_in_v2{animation-duration:300ms;animation-name:fb_bounce_in_v2;transition-timing-function:ease-in}.fb_customer_chat_bounce_in_from_left{animation-duration:300ms;animation-name:fb_bounce_in_from_left;transition-timing-function:ease-in}.fb_customer_chat_bounce_out_v2{animation-duration:300ms;animation-name:fb_bounce_out_v2;transition-timing-function:ease-in}.fb_customer_chat_bounce_out_from_left{animation-duration:300ms;animation-name:fb_bounce_out_from_left;transition-timing-function:ease-in}.fb_invisible_flow{display:inherit;height:0;overflow-x:hidden;width:0}@keyframes fb_mpn_landing_page_slide_out{0%{margin:0 12px;width:100% - 24px}60%{border-radius:18px}100%{border-radius:50%;margin:0 24px;width:60px}}@keyframes fb_mpn_landing_page_slide_out_from_left{0%{left:12px;width:100% - 24px}60%{border-radius:18px}100%{border-radius:50%;left:12px;width:60px}}@keyframes fb_mpn_landing_page_slide_up{0%{bottom:0;opacity:0}100%{bottom:24px;opacity:1}}@keyframes fb_mpn_bounce_in{0%{opacity:.5;top:100%}100%{opacity:1;top:0}}@keyframes fb_mpn_fade_out{0%{bottom:30px;opacity:1}100%{bottom:0;opacity:0}}@keyframes fb_mpn_bounce_out{0%{opacity:1;top:0}100%{opacity:.5;top:100%}}@keyframes fb_bounce_in_v2{0%{opacity:0;transform:scale(0, 0);transform-origin:bottom right}50%{transform:scale(1.03, 1.03);transform-origin:bottom right}100%{opacity:1;transform:scale(1, 1);transform-origin:bottom right}}@keyframes fb_bounce_in_from_left{0%{opacity:0;transform:scale(0, 0);transform-origin:bottom left}50%{transform:scale(1.03, 1.03);transform-origin:bottom left}100%{opacity:1;transform:scale(1, 1);transform-origin:bottom left}}@keyframes fb_bounce_out_v2{0%{opacity:1;transform:scale(1, 1);transform-origin:bottom right}100%{opacity:0;transform:scale(0, 0);transform-origin:bottom right}}@keyframes fb_bounce_out_from_left{0%{opacity:1;transform:scale(1, 1);transform-origin:bottom left}100%{opacity:0;transform:scale(0, 0);transform-origin:bottom left}}@keyframes slideInFromBottom{0%{opacity:.1;transform:translateY(100%)}100%{opacity:1;transform:translateY(0)}}@keyframes slideInFromBottomDelay{0%{opacity:0;transform:translateY(100%)}97%{opacity:0;transform:translateY(100%)}100%{opacity:1;transform:translateY(0)}}</style>
+ </head> 
+ <body class="page-index "> 
+  <script>
+          window.fbAsyncInit = function() {
+            FB.init({
+              appId      : '1691805651051135',
+              xfbml      : true,
+              version    : 'v2.5'
+            });
+
+            if(window.facebookLoginAsync)
+                facebookLoginAsync();
+          };
+
+          (function(d, s, id){
+             var js, fjs = d.getElementsByTagName(s)[0];
+             if (d.getElementById(id)) {return;}
+             js = d.createElement(s); js.id = id;
+             js.src = "//connect.facebook.net/en_US/sdk.js";
+             fjs.parentNode.insertBefore(js, fjs);
+           }(document, 'script', 'facebook-jssdk'));
+        </script> 
+  <div id="overlay"></div> 
+  <!-- TOPNAV --> 
+  <div id="push-notification-hint"> 
+   <div class="hint-container"> 
+    <p>Para ativar as notificações, <strong>clique no cadeado</strong> ao lado do endereço do site e dê permissão para que o seu navegador possa lhe enviar notificações de lançamento do nosso site!</p> 
+    <a href="#" title="Fechar" class="close" onclick="$(this).parent().parent().hide(); $('#overlay').hide();"> 
+     <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 35.1 36" class="mp-icon fechar-icon replaced-svg">
+      <path d="M24.4 18l9.2 9.3c1 1 1.5 2.3 1.5 3.6 0 1.3-0.5 2.6-1.5 3.6 -2 2-5.1 2-7.1 0l-9-9.1L8.6 34.6c-2 2-5.1 2-7.1 0 -2-2-2-5.2 0-7.2l9.2-9.3L1.5 8.7c-2-2-2-5.2 0-7.2 2-2 5.1-2 7.1 0l9 9.1 9-9.1c2-2 5.1-2 7.1 0 1 1 1.5 2.3 1.5 3.6s-0.5 2.6-1.5 3.6L24.4 18z"></path>
+     </svg> </a> 
+   </div> 
+  </div> 
+  <div id="topnav" class="nav-down"> 
+   <div class="main-menu-xs"> 
+    <a href="/" class="active" title="Ir para a Home do site!"><h1>Home</h1></a> 
+    <a href="/lista-de-mangas" title="Listagem de mangás, novels, hqs e manhuas online"><h1>Mangás</h1></a> 
+    <a href="/lista-de-categorias" title="Listagem de categorias de mangás"><h1>Categorias</h1></a> 
+    <a href="/grupos" title="Listagem de grupos de tradução de mangás"><h1>Grupos</h1></a> 
+   </div> 
+   <div class="container"> 
+    <div class="navbar-brand hidden-xs"> 
+     <a href="/" data-target="#menu-index" title="Ir para a Home do site"></a> 
+    </div> 
+    <div class="menu-trigger visible-xs"> 
+     <a href="#" title="Abrir menu"> 
+      <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 31.5 22" id="menu-trigger" class="mp-icon menu-icon replaced-svg">
+       <path d="M30.4 13.2h-26C2 13.2 0 11.2 0 8.8V8.8h28.2c1.8 0 3.3 1.5 3.3 3.3v0C31.5 12.7 31 13.2 30.4 13.2zM30.3 4.4H4.4c-2.4 0-4.4-2-4.4-4.4h28.1c1.8 0 3.3 1.5 3.3 3.3C31.4 3.9 30.9 4.4 30.3 4.4zM31.4 20.9c0 0.6-0.5 1.1-1.1 1.1H4.4c-2.4 0-4.4-2-4.4-4.4h28.1C30 17.6 31.4 19.1 31.4 20.9z"></path>
+      </svg> </a> 
+    </div> 
+    <div class="nav"> 
+     <ul class="main-menu hidden-xs"> 
+      <li> <a href="/lista-de-mangas" data-target="#menu-titulos" title="Listagem de mangás, novels, hqs e manhuas online"><h1>Mangás</h1></a> </li> 
+      <li> <a href="/lista-de-categorias" data-target="#menu-categorias" title="Listagem de categorias de mangás"><h1>Categorias</h1></a> </li> 
+      <li> <a href="/grupos" data-target="#menu-grupos" title="Listagem de grupos de tradução de mangás"><h1>Grupos</h1></a> </li> 
+     </ul> 
+     <div class="navbar-brand-xs visible-xs"> 
+      <a href="/" class="brand-expanded" title="MangaLivre"></a> 
+     </div> 
+     <!--Search--> 
+     <div class="search ui-widget"> 
+      <a href="/serie-aleatoria" title="Ler um mangá aleatório online" class="random-series"> <span class="hidden-xs">Mangá sortido!</span> <img src="/assets/images/layout/sortida.png" alt="Mangá aleatório online"> </a> 
+      <input type="text" class="form-control ui-autocomplete-input" id="searchInput" autocomplete="off"> 
+      <button type="submit" class="btn-search"></button> 
+     </div> 
+     <div class="user-nav"> 
+      <span class="login"> 
+       <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 26.7 31.7" class="mp-icon user-icon replaced-svg">
+        <path d="M26.3 31.7c-1.4-0.7-4.3-2.4-4.3-4.7l0 0V21.3c-1.5-0.2-2-0.8-2-0.8 -4.5-2.2-4.2 1.2-4.2 1.2v2.8L14 28h-1l-2-4h0v-2.3c0 0 0.4-3.4-4.2-1.2 0 0-0.5 0.6-2 0.8v6.4c-0.4 0.8-1.5 2.3-4.2 4C0.2 31.7 0 31.7 0 31.7V17.8c3-0.5 4.3-1.5 4.3-1.5 1.7-0.8 3.2-1.2 4.4-1.3C7.1 13.5 6 11.1 6 8.5c0-4.7 3.4-8.5 7.5-8.5 4.1 0 7.5 3.8 7.5 8.5 0 2.6-1.1 5-2.7 6.6 1.2 0.1 2.5 0.5 4.2 1.3 0 0 1.3 1 4.3 1.5V31.7C26.7 31.7 26.6 31.7 26.3 31.7z"></path>
+       </svg> <span class="hidden-xs">Login</span> </span> 
+     </div> 
+    </div> 
+    <div class="login-navbar"> 
+     <ul class="social-login-options"> 
+      <li class="fb"> <a href="#"> <span class="facebook-icon"></span> </a> </li> 
+      <li class="twitter"> <a href="/login/twitter" title="Login via Twitter"> <span class="twitter-icon"></span> </a> </li> 
+      <li class="google"> <a href="/login/google" title="Login via Google"> <span class="google-icon"></span> </a> </li> 
+      <li class="mp"> <span class="mangasproject-icon"></span> </li> 
+     </ul> 
+     <i class="arrow-left"></i> 
+     <span class="choose-text"> <span class="hidden-xs">Escolha o sistema de login</span> <span class="visible-xs">Login</span> </span> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- END TOPNAV --> 
+  <!-- SUB TOPNAV --> 
+  <div id="subtopnav-sticky-wrapper" class="sticky-wrapper is-sticky" style="height: 37px;">
+   <div id="subtopnav" style="top: 60px; width: 716px; position: fixed;"> 
+    <div class="container"> 
+     <div class="wrap"> 
+      <ul id="menu-index" class="navo native"> 
+       <li class="active"><a href="#destaques" class="page-scroll" title="Mangás em destaque"><span>Destaques</span></a></li> 
+       <li><a href="#populares-semana" class="page-scroll" title="Mangás mais lidos da semana"><span>Mais Lidos Da Semana</span></a></li> 
+       <li><a href="#lancamentos" class="page-scroll" title="Lançamentos recentes de mangás"><span>Lançamentos</span></a></li> 
+       <li><a href="#top-series" class="page-scroll" title="Mangás mais lidos"><span>Mangás Mais Lidos</span></a></li> 
+       <li><a href="#recem-adicionados" class="page-scroll" title="Novos mangás recém adicionados"><span>Recém Adicionados</span></a></li> 
+       <li><a href="#recem-finalizados" class="page-scroll" title="Mangás recém finalizados"><span>Recém Finalizados</span></a></li> 
+      </ul> 
+      <ul id="menu-serie"> 
+       <li class="active"> <a href="#" class="toggle-author" data-target="#series-data" title="Informações sobre o mangá "> <span> Informações do Mangá </span> </a> </li> 
+      </ul> 
+      <ul id="menu-contato"> 
+       <li class="active"><a href="#contato" class="page-scroll" title="Entre em contato conosco"><span>Entre em Contato</span></a></li> 
+       <li><a href="#dmca" class="page-scroll"><span>DMCA (English)</span></a></li> 
+       <li><a href="#terms" class="page-scroll" title="Termos de Uso"><span>Termos de Uso</span></a></li> 
+       <li><a href="#politica" class="page-scroll" title="Política de Privacidade"><span>Política de Privacidade</span></a></li> 
+      </ul> 
+      <ul id="menu-vip"> 
+       <li><a href="#torne-se" class="page-scroll" title="Torne-se VIP!"><span>Torne-se VIP!</span></a></li> 
+       <li><a href="#por-que-doar" class="page-scroll" title="Razões para ser VIP!"><span>Por que ser VIP?</span></a></li> 
+       <li><a href="#vantagens" class="page-scroll" title="Veja razões para se tornar VIP"><span>Vantagens</span></a></li> 
+      </ul> 
+      <ul id="menu-titulos"> 
+       <li> <a href="/lista-de-mangas/ordenar-por-nome/todos" data-method="alphabetically" title="Todos os mangás do site"><span>Todos (A-Z)</span></a> </li> 
+       <li> <a href="/lista-de-mangas/ordenar-por-nota" data-method="score" title="Mangás com as melhores notas"><span>Melhores Notas</span></a> </li> 
+       <li> <a href="/lista-de-mangas/ordenar-por-numero-de-leituras/todos/desde-o-comeco" data-method="views" title="Mangás mais lidos"><span>Mais Lidos</span></a> </li> 
+       <li> <a href="/lista-de-mangas/ordenar-por-favoritos" data-method="favorites" title="Mangás mais favoritados"><span>Favoritos</span></a> </li> 
+       <li> <a href="/lista-de-mangas/ordenar-por-atualizacoes" data-method="updated" title="Mangás mais atualizados"><span>Recém Atualizados</span></a> </li> 
+       <li> <a href="/lista-de-mangas/ordenar-por-numero-de-capitulos" data-method="chapters" title="Mangás com mais capítulos"><span>Número de Capítulos</span></a> </li> 
+       <li> <a href="/lista-de-mangas/ordenar-por-finalizados" data-method="finished" title="Mangás finalizados"><span>Recém Finalizados</span></a> </li> 
+      </ul> 
+      <ul id="menu-categorias"> 
+       <li><a href="/lista-de-categorias#alphabetically" data-method="alphabetically" title="Categorias por ordem alfabética"><span>Ordem Alfabética</span></a></li> 
+       <li><a href="/lista-de-categorias#titles" data-method="titles" title="Categorias com mais mangás"><span>Número de Mangás</span></a></li> 
+      </ul> 
+      <ul id="menu-grupos"> 
+       <li><a href="/grupos#alphabetically" data-method="alphabetically" title="Grupos por ordem alfabética"><span>Ordem Alfabética</span></a></li> 
+       <li><a href="/grupos#rating" data-method="rating" title="Grupos mais bem avaliados"><span>Mais Curtidas</span></a></li> 
+       <li><a href="/grupos#titles" data-method="titles" title="Grupos que fazem mais mangás"><span>Número de Mangás</span></a></li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div>
+  </div> 
+  <!-- SUB TOPNAV --> 
+  <!-- DESTAQUES --> 
+  <div id="destaques" style="max-height:280px;"> 
+   <div class="bx-wrapper" style="max-width: 100%;">
+    <div class="bx-viewport" style="width: 100%; overflow: hidden; position: relative; height: 210px;">
+     <ul class="bxslider" style="width: auto; position: relative;">
+      <li data-featured-slider-item="" style="float: none; list-style: none; position: absolute; width: 716px; z-index: 0; display: none;"> <a class="featured-manga-link" href="/ler/martial-peak/online/387643/2293"></a> 
+       <div class="destaque-wrap" style="background-color: rgb(118, 62, 25);"> 
+        <div class="chapter-info"> 
+         <div class="chapter-number-wrap" style="background-color: rgb(118, 62, 25);"> 
+          <div class="chapter-number">
+            Capítulo 
+           <span>2293</span> 
+          </div> 
+         </div> 
+         <span class="chapter-date">hoje - 11:39</span> 
+        </div> 
+        <div class="destaque-image" style="background-image: url(&quot;https://static3.mangalivre.net/destaques/svfC9txgcSVVgx2w5lz82w/7302/martialpeak.png&quot;);"> 
+        </div> 
+       </div> </li>
+      <li data-featured-slider-item="" style="float: none; list-style: none; position: absolute; width: 716px; z-index: 0; display: none;"> <a class="featured-manga-link" href="/ler/the-descent-of-the-demonic-master/online/387632/135"></a> 
+       <div class="destaque-wrap" style="background-color: rgb(84, 17, 18);"> 
+        <div class="chapter-info"> 
+         <div class="chapter-number-wrap" style="background-color: rgb(84, 17, 18);"> 
+          <div class="chapter-number">
+            Capítulo 
+           <span>135</span> 
+          </div> 
+         </div> 
+         <span class="chapter-date">hoje - 11:32</span> 
+        </div> 
+        <div class="destaque-image" style="background-image: url(&quot;https://static3.mangalivre.net/destaques/ucFmw2U5aln8QGITCcjrvw/8860/demon-master.png&quot;);"> 
+        </div> 
+       </div> </li>
+      <li data-featured-slider-item="" style="float: none; list-style: none; position: absolute; width: 716px; z-index: 50;"> <a class="featured-manga-link" href="/ler/updater/online/387628/78"></a> 
+       <div class="destaque-wrap" style="background-color: rgb(0, 15, 43);"> 
+        <div class="chapter-info"> 
+         <div class="chapter-number-wrap" style="background-color: rgb(0, 15, 43);"> 
+          <div class="chapter-number">
+            Capítulo 
+           <span>78</span> 
+          </div> 
+         </div> 
+         <span class="chapter-date">hoje - 11:30</span> 
+        </div> 
+        <div class="destaque-image" style="background-image: url(&quot;https://static3.mangalivre.net/destaques/q3wcUxu6yf3zbWiA1UQyVQ/12391/updater.png&quot;);"> 
+        </div> 
+       </div> </li>
+      <li data-featured-slider-item="" style="float: none; list-style: none; position: absolute; width: 716px; z-index: 0; display: none;"> <a class="featured-manga-link" href="/ler/ijiranaide-nagatoro-san/online/387588/106"></a> 
+       <div class="destaque-wrap" style="background-color: rgb(16, 153, 205);"> 
+        <div class="chapter-info"> 
+         <div class="chapter-number-wrap" style="background-color: rgb(16, 153, 205);"> 
+          <div class="chapter-number">
+            Capítulo 
+           <span>106</span> 
+          </div> 
+         </div> 
+         <span class="chapter-date">ontem - 20:33</span> 
+        </div> 
+        <div class="destaque-image" style="background-image: url(&quot;https://static3.mangalivre.net/destaques/P9eeqB7OlsoilfoguY3S_Q/6938/ijiranaide-nagaroto.png&quot;);"> 
+        </div> 
+       </div> </li>
+      <li data-featured-slider-item="" style="float: none; list-style: none; position: absolute; width: 716px; z-index: 0; display: none;"> <a class="featured-manga-link" href="/ler/jujutsu-kaisen/online/387587/187"></a> 
+       <div class="destaque-wrap" style="background-color: rgb(10, 35, 70);"> 
+        <div class="chapter-info"> 
+         <div class="chapter-number-wrap" style="background-color: rgb(10, 35, 70);"> 
+          <div class="chapter-number">
+            Capítulo 
+           <span>187</span> 
+          </div> 
+         </div> 
+         <span class="chapter-date">ontem - 20:32</span> 
+        </div> 
+        <div class="destaque-image" style="background-image: url(&quot;https://static3.mangalivre.net/destaques/U7IYxJPqFgKVdgnoSJ8PRw/7178/jujutsu-kaisen.png&quot;);"> 
+        </div> 
+       </div> </li>
+      <li data-featured-slider-item="" style="float: none; list-style: none; position: absolute; width: 716px; z-index: 0; display: none;"> <a class="featured-manga-link" href="/ler/the-great-mage-returns-after-4000-years/online/387553/130"></a> 
+       <div class="destaque-wrap" style="background-color: rgb(0, 60, 118);"> 
+        <div class="chapter-info"> 
+         <div class="chapter-number-wrap" style="background-color: rgb(0, 60, 118);"> 
+          <div class="chapter-number">
+            Capítulo 
+           <span>130</span> 
+          </div> 
+         </div> 
+         <span class="chapter-date">ontem - 20:18</span> 
+        </div> 
+        <div class="destaque-image" style="background-image: url(&quot;https://static3.mangalivre.net/destaques/i0L36kow-ILoJIw2z5T-dw/9735/4000s.png&quot;);"> 
+        </div> 
+       </div> </li>
+      <li data-featured-slider-item="" style="float: none; list-style: none; position: absolute; width: 716px; z-index: 0; display: none;"> <a class="featured-manga-link" href="/ler/dungeon-reset/online/387550/126"></a> 
+       <div class="destaque-wrap" style="background-color: rgb(34, 96, 103);"> 
+        <div class="chapter-info"> 
+         <div class="chapter-number-wrap" style="background-color: rgb(34, 96, 103);"> 
+          <div class="chapter-number">
+            Capítulo 
+           <span>126</span> 
+          </div> 
+         </div> 
+         <span class="chapter-date">ontem - 20:16</span> 
+        </div> 
+        <div class="destaque-image" style="background-image: url(&quot;https://static3.mangalivre.net/destaques/opJZx3-HIIKL_DxoB2H5Sg/9375/dungeonreset.png&quot;);"> 
+        </div> 
+       </div> </li>
+     </ul>
+    </div>
+    <div class="bx-controls"></div>
+   </div> 
+   <div class="featured-link"> 
+    <a href="/destaques" title="Todos os mangás em destaque"> <span>Ver Todos os Destaques</span> 
+     <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 16.8 16" class="mp-icon featured-icon replaced-svg">
+      <path d="M16.5 7.6L14.5 6l0.7-2.5c0.1-0.2 0-0.3-0.1-0.5 -0.1-0.1-0.3-0.2-0.4-0.2l-2.6 0 -0.8-2.4c-0.1-0.2-0.2-0.3-0.3-0.3C10.8 0 10.6 0 10.5 0.1L8.4 1.6 6.3 0.1C6.1 0 6 0 5.8 0 5.6 0.1 5.5 0.2 5.4 0.4l-0.8 2.4L2 2.8C1.9 2.8 1.7 2.9 1.6 3.1 1.5 3.2 1.5 3.4 1.5 3.5l0.7 2.5L0.2 7.6C0.1 7.7 0 7.8 0 8c0 0.2 0.1 0.3 0.2 0.4l2.1 1.5L1.5 12.4c0 0.2 0 0.3 0.1 0.5 0.1 0.1 0.3 0.2 0.4 0.2l2.6 0 0.8 2.4c0.1 0.2 0.2 0.3 0.3 0.3 0.2 0.1 0.3 0 0.5-0.1l2.1-1.5 2.1 1.5c0.1 0.1 0.2 0.1 0.3 0.1 0.1 0 0.1 0 0.2 0 0.2-0.1 0.3-0.2 0.3-0.3l0.8-2.4 2.6 0c0.2 0 0.3-0.1 0.4-0.2 0.1-0.1 0.1-0.3 0.1-0.5L14.5 10l2.1-1.5c0.1-0.1 0.2-0.3 0.2-0.4C16.8 7.8 16.7 7.7 16.5 7.6z"></path>
+     </svg> </a> 
+   </div> 
+   <div class="destaque-tags"> 
+    <div class="wrap"> 
+     <ul id="bx-pager">
+      <li data-featured-slider-pager-item=""> <a href="#" data-slide-index="0" class="" style="background-color: rgb(118, 62, 25);"> <span class="name">Martial Peak</span> <span class="number">2293</span> </a> </li>
+      <li data-featured-slider-pager-item=""> <a href="#" data-slide-index="1" style="background-color: rgb(84, 17, 18);" class=""> <span class="name">The Descent of the Demonic Master</span> <span class="number">135</span> </a> </li>
+      <li data-featured-slider-pager-item=""> <a href="#" data-slide-index="2" style="background-color: rgb(0, 15, 43);" class="active"> <span class="name">Updater</span> <span class="number">78</span> </a> </li>
+      <li data-featured-slider-pager-item=""> <a href="#" data-slide-index="3" style="background-color: rgb(16, 153, 205);"> <span class="name">Ijiranaide, Nagatoro-san</span> <span class="number">106</span> </a> </li>
+      <li data-featured-slider-pager-item=""> <a href="#" data-slide-index="4" style="background-color: rgb(10, 35, 70);"> <span class="name">Jujutsu Kaisen</span> <span class="number">187</span> </a> </li>
+      <li data-featured-slider-pager-item=""> <a href="#" data-slide-index="5" style="background-color: rgb(0, 60, 118);"> <span class="name">The Great Mage Returns After 4000 Years</span> <span class="number">130</span> </a> </li>
+      <li data-featured-slider-pager-item=""> <a href="#" data-slide-index="6" style="background-color: rgb(34, 96, 103);"> <span class="name">Dungeon Reset</span> <span class="number">126</span> </a> </li>
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="wraper" style="height: auto !important;"> 
+   <div class="container" style="height: auto !important;"> 
+    <div id="type-switcher"> 
+     <ul class="types-list"> 
+      <li class="type" data-type="manga"> <a href="#"> <span>Mangás</span> </a> </li> 
+      <li class="type" data-type="manhua"> <a href="#"> <span>Manhuas</span> </a> </li> 
+      <li class="type" data-type="webtoon"> <a href="#"> <span>Webtoons</span> </a> </li> 
+      <li class="type" data-type="novel"> <a href="#"> <span>Novels</span> </a> </li> 
+      <li class="type active" data-type=""> <a href="#"> <span>Todos</span> </a> </li> 
+     </ul> 
+    </div> 
+    <div id="populares-semana" class="container-box"> 
+     <div class="main-bg-image"></div> 
+     <div class="pattern-x"></div> 
+     <div class="content-wraper touchcarousel"> 
+      <h2 class="most-read-title"> <i>Mais Lidos da Semana</i> <span class="arrow-container most-read-toggle" style="position:absolute;">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 9.8 14" class="mp-icon arrow-icon down replaced-svg">
+         <path d="M0.6 0.6c-0.8 0.8-0.8 2 0 2.8L4.2 7l-3.6 3.6c-0.8 0.8-0.8 2 0 2.8C1 13.8 1.5 14 2 14s1-0.2 1.4-0.6L9.8 7 3.4 0.6C2.6-0.2 1.4-0.2 0.6 0.6z"></path>
+        </svg></span> </h2> 
+      <div class="most-read-menu"> 
+       <span class="arrow-container most-read-toggle" style="position:absolute;">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 9.8 14" class="mp-icon arrow-icon up replaced-svg">
+         <path d="M0.6 0.6c-0.8 0.8-0.8 2 0 2.8L4.2 7l-3.6 3.6c-0.8 0.8-0.8 2 0 2.8C1 13.8 1.5 14 2 14s1-0.2 1.4-0.6L9.8 7 3.4 0.6C2.6-0.2 1.4-0.2 0.6 0.6z"></path>
+        </svg></span> 
+       <ul> 
+        <li data-period="day"><a href="#">Mais Lidos do Dia</a></li> 
+        <li class="current" data-period="week"><a href="#">Mais Lidos da Semana</a></li> 
+        <li data-period="month"><a href="#">Mais Lidos do Mês</a></li> 
+        <li data-period="year"><a href="#">Mais Lidos do Ano</a></li> 
+       </ul> 
+       <div class="adult-category">
+         Categoria Adulta? 
+        <div class="adult-choose"> 
+         <input value="0" name="adult-content" type="radio" id="hide" checked> 
+         <label data-value="0" for="hide"> Ocultar </label> 
+         <input value="1" name="adult-content" type="radio" id="show"> 
+         <label data-value="1" for="show"> Incluir </label> 
+         <input value="2" name="adult-content" type="radio" id="only"> 
+         <label data-value="2" for="only"> Apenas </label> 
+        </div> 
+       </div> 
+      </div> 
+      <span class="arrow" style="pointer-events:none"><img src="assets/images/layout/arrow.png" alt="arrow" class="arrow-h"> <img src="assets/images/layout/arrow.png" alt="arrow"></span> 
+      <div class="carousel" style="overflow: visible;">
+       <div class="touchcarousel-wrapper">
+        <ul class="populares-semana touchcarousel-container" style="transform-origin: 0px 0px; transform: translateZ(0px); width: 2603px;">
+         <li class="touchcarousel-item"> 
+          <div class="item"> 
+           <a href="/ler/one-punch-man/online/387241/200" title="Ler One Punch Man Cap. 200 Online!"> <span class="chapter-number">200</span> 
+            <div class="cover-image"> 
+             <picture> 
+              <source srcset="https://static3.mangalivre.net/capas/yVC1AJa1Him7473zaq7zDQ/1036/thumb_6029419421cd0external_cover.jpg.avif" type="image/avif"> 
+              <img src="https://static3.mangalivre.net/capas/7vduFh2Q-L7fsDxtets9zQ/1036/thumb_6029419421cd0external_cover.jpg" referrerpolicy="no-referrer"> 
+             </picture> 
+            </div> </a> 
+           <a href="/manga/one-punch-man/1036" title="Ler One Punch Man Online!"> <span class="series-title"><h1>One Punch Man</h1></span> </a> 
+          </div> </li>
+         <li class="touchcarousel-item"> 
+          <div class="item"> 
+           <a href="/ler/one-piece/online/387386/1052" title="Ler One Piece Cap. 1052 Online!"> <span class="chapter-number">1052</span> 
+            <div class="cover-image"> 
+             <picture> 
+              <source srcset="https://static3.mangalivre.net/capas/4-j9F9n3bBJx1pudeTIwew/13/thumb_623e0f34a0ce7_external_cover.jpg.avif" type="image/avif"> 
+              <img src="https://static3.mangalivre.net/capas/PfiDSuvKB00FNNx83oLbng/13/thumb_623e0f34a0ce7_external_cover.jpg" referrerpolicy="no-referrer"> 
+             </picture> 
+            </div> </a> 
+           <a href="/manga/one-piece/13" title="Ler One Piece Online!"> <span class="series-title"><h1>One Piece</h1></span> </a> 
+          </div> </li>
+         <li class="touchcarousel-item"> 
+          <div class="item"> 
+           <a href="/ler/tokyo-revengers/online/386825/256" title="Ler Tokyo Revengers Cap. 256 Online!"> <span class="chapter-number">256</span> 
+            <div class="cover-image"> 
+             <picture> 
+              <source srcset="https://static3.mangalivre.net/capas/jBWnizT_1D-zcdeZTE1iSg/6950/thumb_613881e16f42fexternal_cover.jpg.avif" type="image/avif"> 
+              <img src="https://static3.mangalivre.net/capas/poZuh-Yh0U6Yeemk0BTlEw/6950/thumb_613881e16f42fexternal_cover.jpg" referrerpolicy="no-referrer"> 
+             </picture> 
+            </div> </a> 
+           <a href="/manga/tokyo-revengers/6950" title="Ler Tokyo Revengers Online!"> <span class="series-title"><h1>Tokyo Revengers</h1></span> </a> 
+          </div> </li>
+         <li class="touchcarousel-item"> 
+          <div class="item"> 
+           <a href="/ler/tensei-shitara-slime-datta-ken/online/386491/96" title="Ler Tensei shitara Slime Datta Ken Cap. 96 Online!"> <span class="chapter-number">96</span> 
+            <div class="cover-image"> 
+             <picture> 
+              <source srcset="https://static3.mangalivre.net/capas/6RItHCkVw7Sapp9a5-hU8w/2692/thumb_621e5d9221ccdexternal_cover.jpg.avif" type="image/avif"> 
+              <img src="https://static3.mangalivre.net/capas/-WenF2FASjub2C46j_cMbA/2692/thumb_621e5d9221ccdexternal_cover.jpg" referrerpolicy="no-referrer"> 
+             </picture> 
+            </div> </a> 
+           <a href="/manga/tensei-shitara-slime-datta-ken/2692" title="Ler Tensei shitara Slime Datta Ken Online!"> <span class="series-title"><h1>Tensei shitara Slime Datta Ken</h1></span> </a> 
+          </div> </li>
+         <li class="touchcarousel-item"> 
+          <div class="item"> 
+           <a href="/ler/the-beginning-after-the-end/online/387549/149" title="Ler The Beginning After The End Cap. 149 Online!"> <span class="chapter-number">149</span> 
+            <div class="cover-image"> 
+             <picture> 
+              <source srcset="https://static3.mangalivre.net/capas/Mh1q2sSjyB8xQEbFLE5wsQ/7403/thumb_625b30e19b8b3_external_cover.jpg.avif" type="image/avif"> 
+              <img src="https://static3.mangalivre.net/capas/zWsRSFocqZEG6hquqwfwIA/7403/thumb_625b30e19b8b3_external_cover.jpg" referrerpolicy="no-referrer"> 
+             </picture> 
+            </div> </a> 
+           <a href="/manga/the-beginning-after-the-end/7403" title="Ler The Beginning After The End Online!"> <span class="series-title"><h1>The Beginning After The End</h1></span> </a> 
+          </div> </li>
+         <li class="touchcarousel-item"> 
+          <div class="item"> 
+           <a href="/ler/mercenary-enrollment/online/386610/87" title="Ler Mercenary Enrollment Cap. 87 Online!"> <span class="chapter-number">87</span> 
+            <div class="cover-image"> 
+             <picture> 
+              <source srcset="https://static3.mangalivre.net/capas/QuMJBL_tRwl9_0bELjI3Gw/11177/thumb_60207d33e5dceexternal_cover.jpg.avif" type="image/avif"> 
+              <img src="https://static3.mangalivre.net/capas/D-ssimBEwsZbIUBtTHcsKg/11177/thumb_60207d33e5dceexternal_cover.jpg" referrerpolicy="no-referrer"> 
+             </picture> 
+            </div> </a> 
+           <a href="/manga/mercenary-enrollment/11177" title="Ler Mercenary Enrollment Online!"> <span class="series-title"><h1>Mercenary Enrollment</h1></span> </a> 
+          </div> </li>
+         <li class="touchcarousel-item"> 
+          <div class="item"> 
+           <a href="/ler/overgeared-team-argo/online/386613/129" title="Ler Overgeared (Team Argo) Cap. 129 Online!"> <span class="chapter-number">129</span> 
+            <div class="cover-image"> 
+             <picture> 
+              <source srcset="https://static3.mangalivre.net/capas/EGMsdkGq76LBqK5xvPHv6g/9569/thumb_60207cf00fd47external_cover.jpg.avif" type="image/avif"> 
+              <img src="https://static3.mangalivre.net/capas/gISfN9dHw9lto10-EechrA/9569/thumb_60207cf00fd47external_cover.jpg" referrerpolicy="no-referrer"> 
+             </picture> 
+            </div> </a> 
+           <a href="/manga/overgeared-team-argo/9569" title="Ler Overgeared (Team Argo) Online!"> <span class="series-title"><h1>Overgeared (Team Argo)</h1></span> </a> 
+          </div> </li>
+         <li class="touchcarousel-item"> 
+          <div class="item"> 
+           <a href="/ler/jujutsu-kaisen/online/387587/187" title="Ler Jujutsu Kaisen Cap. 187 Online!"> <span class="chapter-number">187</span> 
+            <div class="cover-image"> 
+             <picture> 
+              <source srcset="https://static3.mangalivre.net/capas/FyrTStH52qg1OfyF7aNY_g/7178/thumb_603a47c046ee3external_cover.jpg.avif" type="image/avif"> 
+              <img src="https://static3.mangalivre.net/capas/czCuNYPLXqtYlRO_-vP65g/7178/thumb_603a47c046ee3external_cover.jpg" referrerpolicy="no-referrer"> 
+             </picture> 
+            </div> </a> 
+           <a href="/manga/jujutsu-kaisen/7178" title="Ler Jujutsu Kaisen Online!"> <span class="series-title"><h1>Jujutsu Kaisen</h1></span> </a> 
+          </div> </li>
+         <li class="touchcarousel-item"> 
+          <div class="item"> 
+           <a href="/ler/tales-of-demons-and-gods/online/387208/382-5" title="Ler Tales Of Demons And Gods Cap. 382.5 Online!"> <span class="chapter-number">382.5</span> 
+            <div class="cover-image"> 
+             <picture> 
+              <source srcset="https://static3.mangalivre.net/capas/fVZeoZzNn8P7x0dyj_QNjA/2412/thumb_external_cover.jpg.avif" type="image/avif"> 
+              <img src="https://static3.mangalivre.net/capas/QMppHfs7kD7twAq97HRz3g/2412/thumb_external_cover.jpg" referrerpolicy="no-referrer"> 
+             </picture> 
+            </div> </a> 
+           <a href="/manga/tales-of-demons-and-gods/2412" title="Ler Tales Of Demons And Gods Online!"> <span class="series-title"><h1>Tales Of Demons And Gods</h1></span> </a> 
+          </div> </li>
+         <li class="touchcarousel-item"> 
+          <div class="item"> 
+           <a href="/ler/omniscient-readers-viewpoint/online/386587/109" title="Ler Omniscient Reader's Viewpoint  Cap. 109 Online!"> <span class="chapter-number">109</span> 
+            <div class="cover-image"> 
+             <picture> 
+              <source srcset="https://static3.mangalivre.net/capas/O8P4wcAYH7HxNoHOsx1Sbg/9948/thumb_6021a19615b9bexternal_cover.jpg.avif" type="image/avif"> 
+              <img src="https://static3.mangalivre.net/capas/6cuQ4fJBSNFBYz1gc7zv2A/9948/thumb_6021a19615b9bexternal_cover.jpg" referrerpolicy="no-referrer"> 
+             </picture> 
+            </div> </a> 
+           <a href="/manga/omniscient-readers-viewpoint/9948" title="Ler Omniscient Reader's Viewpoint  Online!"> <span class="series-title"><h1>Omniscient Reader's Viewpoint </h1></span> </a> 
+          </div> </li>
+         <li class="touchcarousel-item"> 
+          <div class="item"> 
+           <a href="/ler/tower-of-god-season-3/online/386479/123" title="Ler Tower of God (Season 3) Cap. 123 Online!"> <span class="chapter-number">123</span> 
+            <div class="cover-image"> 
+             <picture> 
+              <source srcset="https://static3.mangalivre.net/capas/jlRvTLHahmFuVEv91qLleA/8058/thumb_external_cover.jpg.avif" type="image/avif"> 
+              <img src="https://static3.mangalivre.net/capas/EOH_CTYSLX1pJfH8u4iMoA/8058/thumb_external_cover.jpg" referrerpolicy="no-referrer"> 
+             </picture> 
+            </div> </a> 
+           <a href="/manga/tower-of-god-season-3/8058" title="Ler Tower of God (Season 3) Online!"> <span class="series-title"><h1>Tower of God (Season 3)</h1></span> </a> 
+          </div> </li>
+         <li class="touchcarousel-item"> 
+          <div class="item"> 
+           <a href="/ler/reformation-of-the-deadbeat-noble/online/386992/50" title="Ler Reformation of the Deadbeat Noble Cap. 50 Online!"> <span class="chapter-number">50</span> 
+            <div class="cover-image"> 
+             <picture> 
+              <source srcset="https://static3.mangalivre.net/capas/KwEEXAEZhHm1HhlmQD2mDg/12793/thumb_60a9277e9414dexternal_cover.jpg.avif" type="image/avif"> 
+              <img src="https://static3.mangalivre.net/capas/nAg3GLHWOYx3B2xtvtTWhA/12793/thumb_60a9277e9414dexternal_cover.jpg" referrerpolicy="no-referrer"> 
+             </picture> 
+            </div> </a> 
+           <a href="/manga/reformation-of-the-deadbeat-noble/12793" title="Ler Reformation of the Deadbeat Noble Online!"> <span class="series-title"><h1>Reformation of the Deadbeat Noble</h1></span> </a> 
+          </div> </li>
+         <li class="touchcarousel-item"> 
+          <div class="item"> 
+           <a href="/ler/the-great-mage-returns-after-4000-years/online/387553/130" title="Ler The Great Mage Returns After 4000 Years Cap. 130 Online!"> <span class="chapter-number">130</span> 
+            <div class="cover-image"> 
+             <picture> 
+              <source srcset="https://static3.mangalivre.net/capas/SFLKjm2a9KhI37mLCS5VrA/9735/thumb_602060f6671e8external_cover.jpg.avif" type="image/avif"> 
+              <img src="https://static3.mangalivre.net/capas/q8HIDE5wZupxAzmu-plYwA/9735/thumb_602060f6671e8external_cover.jpg" referrerpolicy="no-referrer"> 
+             </picture> 
+            </div> </a> 
+           <a href="/manga/the-great-mage-returns-after-4000-years/9735" title="Ler The Great Mage Returns After 4000 Years Online!"> <span class="series-title"><h1>The Great Mage Returns After 4000 Years</h1></span> </a> 
+          </div> </li>
+         <li class="touchcarousel-item"> 
+          <div class="item"> 
+           <a href="/ler/volcanic-return/online/387138/67" title="Ler Volcanic Return Cap. 67 Online!"> <span class="chapter-number">67</span> 
+            <div class="cover-image"> 
+             <picture> 
+              <source srcset="https://static3.mangalivre.net/capas/m9ASAviUhb-elkqx6cc6BQ/12309/thumb_60626d35bfc25_capa.jpg.avif" type="image/avif"> 
+              <img src="https://static3.mangalivre.net/capas/iWrW75MBvJMg8YLFQLHAZA/12309/thumb_60626d35bfc25_capa.jpg" referrerpolicy="no-referrer"> 
+             </picture> 
+            </div> </a> 
+           <a href="/manga/volcanic-return/12309" title="Ler Volcanic Return Online!"> <span class="series-title"><h1>Volcanic Return</h1></span> </a> 
+          </div> </li>
+         <li class="touchcarousel-item"> 
+          <div class="item"> 
+           <a href="/ler/martial-peak/online/386608/2276" title="Ler Martial Peak Cap. 2276 Online!"> <span class="chapter-number">2276</span> 
+            <div class="cover-image"> 
+             <picture> 
+              <source srcset="https://static3.mangalivre.net/capas/EpZbTckaGAHxmSDJG_LSEg/7302/thumb_6022e659a8e56external_cover.jpg.avif" type="image/avif"> 
+              <img src="https://static3.mangalivre.net/capas/nfwsZIwmMBIDkYbGdLZICQ/7302/thumb_6022e659a8e56external_cover.jpg" referrerpolicy="no-referrer"> 
+             </picture> 
+            </div> </a> 
+           <a href="/manga/martial-peak/7302" title="Ler Martial Peak Online!"> <span class="series-title"><h1>Martial Peak</h1></span> </a> 
+          </div> </li>
+         <li class="touchcarousel-item"> 
+          <div class="item"> 
+           <a href="/ler/8-keullaeseu-mabeobsaui-hoegwi---revolution-of-the-8th-class-mage/online/386799/57" title="Ler 8 keullaeseu Mabeobsaui Hoegwi - Revolution of the 8th Class Mage Cap. 57 Online!"> <span class="chapter-number">57</span> 
+            <div class="cover-image"> 
+             <picture> 
+              <source srcset="https://static3.mangalivre.net/capas/9xIchQSBcMnqi7zGXt1o0Q/13082/thumb_60dfb3b406316_capa.jpg.avif" type="image/avif"> 
+              <img src="https://static3.mangalivre.net/capas/w3q6KaN1cgi9bGPbMNz9VQ/13082/thumb_60dfb3b406316_capa.jpg" referrerpolicy="no-referrer"> 
+             </picture> 
+            </div> </a> 
+           <a href="/manga/8-keullaeseu-mabeobsaui-hoegwi---revolution-of-the-8th-class-mage/13082" title="Ler 8 keullaeseu Mabeobsaui Hoegwi - Revolution of the 8th Class Mage Online!"> <span class="series-title"><h1>8 keullaeseu Mabeobsaui Hoegwi - Revolution of the 8th Class Mage</h1></span> </a> 
+          </div> </li>
+         <li class="touchcarousel-item"> 
+          <div class="item"> 
+           <a href="/ler/the-heavenly-demon-cant-live-a-normal-life/online/386549/28" title="Ler The Heavenly Demon Can’t Live a Normal Life Cap. 28 Online!"> <span class="chapter-number">28</span> 
+            <div class="cover-image"> 
+             <picture> 
+              <source srcset="https://static3.mangalivre.net/capas/qy7BGs5wrdSEIrJ0JwLYuA/12969/thumb_60c8bbad6ea94external_cover.jpg.avif" type="image/avif"> 
+              <img src="https://static3.mangalivre.net/capas/AH5I0BnQDYPqFGHEUpKKMA/12969/thumb_60c8bbad6ea94external_cover.jpg" referrerpolicy="no-referrer"> 
+             </picture> 
+            </div> </a> 
+           <a href="/manga/the-heavenly-demon-cant-live-a-normal-life/12969" title="Ler The Heavenly Demon Can’t Live a Normal Life Online!"> <span class="series-title"><h1>The Heavenly Demon Can’t Live a Normal Life</h1></span> </a> 
+          </div> </li>
+         <li class="touchcarousel-item"> 
+          <div class="item"> 
+           <a href="/ler/reverse-villain/online/386454/101" title="Ler Reverse Villain Cap. 101 Online!"> <span class="chapter-number">101</span> 
+            <div class="cover-image"> 
+             <picture> 
+              <source srcset="https://static3.mangalivre.net/capas/vCff1s00_etH3dHnt-IShg/9105/thumb_6021bf4084a25external_cover.jpg.avif" type="image/avif"> 
+              <img src="https://static3.mangalivre.net/capas/lvuEQa6nhh9A6-uw4mpOjQ/9105/thumb_6021bf4084a25external_cover.jpg" referrerpolicy="no-referrer"> 
+             </picture> 
+            </div> </a> 
+           <a href="/manga/reverse-villain/9105" title="Ler Reverse Villain Online!"> <span class="series-title"><h1>Reverse Villain</h1></span> </a> 
+          </div> </li>
+         <li class="touchcarousel-item"> 
+          <div class="item"> 
+           <a href="/ler/survival-of-the-sword-king/online/386995/133" title="Ler Survival of the Sword King Cap. 133 Online!"> <span class="chapter-number">133</span> 
+            <div class="cover-image"> 
+             <picture> 
+              <source srcset="https://static3.mangalivre.net/capas/Td9j_jif_4rhTGTUmdu0-Q/9066/thumb_external_cover.jpg.avif" type="image/avif"> 
+              <img src="https://static3.mangalivre.net/capas/cdAU4v3_tfgSRFNLbcxLwA/9066/thumb_external_cover.jpg" referrerpolicy="no-referrer"> 
+             </picture> 
+            </div> </a> 
+           <a href="/manga/survival-of-the-sword-king/9066" title="Ler Survival of the Sword King Online!"> <span class="series-title"><h1>Survival of the Sword King</h1></span> </a> 
+          </div> </li>
+         <li class="touchcarousel-item last"> 
+          <div class="item"> 
+           <a href="/ler/the-tutorial-is-too-hard/online/386490/65" title="Ler The Tutorial Is Too Hard Cap. 65 Online!"> <span class="chapter-number">65</span> 
+            <div class="cover-image"> 
+             <picture> 
+              <source srcset="https://static3.mangalivre.net/capas/i0F6L7F1lzpx1pFhsFHMXg/11864/thumb_626a2ea6101fa_external_cover.jpg.avif" type="image/avif"> 
+              <img src="https://static3.mangalivre.net/capas/yG30wxUoRe6mYQTA9L-Kqg/11864/thumb_626a2ea6101fa_external_cover.jpg" referrerpolicy="no-referrer"> 
+             </picture> 
+            </div> </a> 
+           <a href="/manga/the-tutorial-is-too-hard/11864" title="Ler The Tutorial Is Too Hard Online!"> <span class="series-title"><h1>The Tutorial Is Too Hard</h1></span> </a> 
+          </div> </li>
+        </ul>
+       </div>
+       <div class="loading" style="display: none;"> 
+        <img src="/assets/images/loading-search.gif" alt="Carregando...">
+       </div>
+      </div> 
+     </div> 
+    </div> 
+    <div amazon-offers-list="" amazon-offers-loaded="true"> 
+     <div class="container" style="padding: 20px 10px;"> 
+      <div class="controls" data-amazon-controls="" style="display: none;"> 
+       <div class="control-container previous"> 
+        <div class="previous control" data-amazon-previous=""> 
+         <div class="button-container"> 
+          <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 9.8 14">
+           <path d="M0.6 0.6c-0.8 0.8-0.8 2 0 2.8L4.2 7l-3.6 3.6c-0.8 0.8-0.8 2 0 2.8C1 13.8 1.5 14 2 14s1-0.2 1.4-0.6L9.8 7 3.4 0.6C2.6-0.2 1.4-0.2 0.6 0.6z"></path>
+          </svg> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="control-container next"> 
+        <div class="next control" data-amazon-next=""> 
+         <div class="button-container"> 
+          <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 9.8 14">
+           <path d="M0.6 0.6c-0.8 0.8-0.8 2 0 2.8L4.2 7l-3.6 3.6c-0.8 0.8-0.8 2 0 2.8C1 13.8 1.5 14 2 14s1-0.2 1.4-0.6L9.8 7 3.4 0.6C2.6-0.2 1.4-0.2 0.6 0.6z"></path>
+          </svg> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="amazon-shop-items" data-amazon-list="" style="overflow-x: auto;"> 
+       <div class="item-container">
+        <div class="item" data-amazon-item=""> 
+         <a href="https://www.amazon.com.br/dp/6559604691?tag=manga-livre-20&amp;linkCode=osi&amp;th=1&amp;psc=1" class="item-link" data-amazon-link="" target="_blank"></a> 
+         <div class="item-image"> 
+          <div class="cover" data-amazon-cover="" style="background-image: url(&quot;https://m.media-amazon.com/images/I/51sqsLi5aoL._SL500_.jpg&quot;);"></div> 
+         </div> 
+         <div class="item-info"> 
+          <h2 data-amazon-title="">Kaguya Sama - Love is War Vol. 14</h2> 
+          <div class="offer"> 
+           <span class="final-price" data-amazon-final-price="">R$ 29,00</span> 
+          </div> 
+         </div> 
+        </div>
+        <div class="item" data-amazon-item=""> 
+         <a href="https://www.amazon.com.br/dp/B09H6M2BTJ?tag=manga-livre-20&amp;linkCode=osi&amp;th=1&amp;psc=1" class="item-link" data-amazon-link="" target="_blank"></a> 
+         <div class="item-image"> 
+          <div class="cover" data-amazon-cover="" style="background-image: url(&quot;https://m.media-amazon.com/images/I/51vC8UaXqPL._SL500_.jpg&quot;);"></div> 
+         </div> 
+         <div class="item-info"> 
+          <h2 data-amazon-title="">Library of Heaven's Path（Book 3） (English Edition)</h2> 
+          <div class="offer"> 
+           <span class="final-price" data-amazon-final-price="">R$ 24,00</span> 
+          </div> 
+         </div> 
+        </div>
+        <div class="item" data-amazon-item=""> 
+         <a href="https://www.amazon.com.br/dp/8542629388?tag=manga-livre-20&amp;linkCode=osi&amp;th=1&amp;psc=1" class="item-link" data-amazon-link="" target="_blank"></a> 
+         <div class="item-image"> 
+          <div class="cover" data-amazon-cover="" style="background-image: url(&quot;https://m.media-amazon.com/images/I/51KbQDF5hcL._SL500_.jpg&quot;);"></div> 
+         </div> 
+         <div class="item-info"> 
+          <h2 data-amazon-title="">One Punch Man - 20</h2> 
+          <div class="offer"> 
+           <span class="final-price" data-amazon-final-price="">R$ 24,00</span> 
+          </div> 
+         </div> 
+        </div>
+        <div class="item" data-amazon-item=""> 
+         <a href="https://www.amazon.com.br/dp/6555942681?tag=manga-livre-20&amp;linkCode=osi&amp;th=1&amp;psc=1" class="item-link" data-amazon-link="" target="_blank"></a> 
+         <div class="item-image"> 
+          <div class="cover" data-amazon-cover="" style="background-image: url(&quot;https://m.media-amazon.com/images/I/51mAL1Z-xvL._SL500_.jpg&quot;);"></div> 
+         </div> 
+         <div class="item-info"> 
+          <h2 data-amazon-title="">That Time I Got Reincarnated as a Slime - Vol. 12</h2> 
+          <div class="offer"> 
+           <span class="final-price" data-amazon-final-price="">R$ 25,00</span> 
+          </div> 
+         </div> 
+        </div>
+        <div class="item" data-amazon-item=""> 
+         <a href="https://www.amazon.com.br/dp/B07PCMVQ6C?tag=manga-livre-20&amp;linkCode=osi&amp;th=1&amp;psc=1" class="item-link" data-amazon-link="" target="_blank"></a> 
+         <div class="item-image"> 
+          <div class="cover" data-amazon-cover="" style="background-image: url(&quot;https://m.media-amazon.com/images/I/51+qOND9AKL._SL500_.jpg&quot;);"></div> 
+         </div> 
+         <div class="item-info"> 
+          <h2 data-amazon-title="">Death March to the Parallel World Rhapsody, Vol. 9 (light novel) (Death March to the Parallel World Rhapsody (light novel)) (English Edition)</h2> 
+          <div class="offer"> 
+           <span class="final-price" data-amazon-final-price="">R$ 38,00</span> 
+          </div> 
+         </div> 
+        </div>
+        <div class="item" data-amazon-item=""> 
+         <a href="https://www.amazon.com.br/dp/B01JQY7VQQ?tag=manga-livre-20&amp;linkCode=osi&amp;th=1&amp;psc=1" class="item-link" data-amazon-link="" target="_blank"></a> 
+         <div class="item-image"> 
+          <div class="cover" data-amazon-cover="" style="background-image: url(&quot;https://m.media-amazon.com/images/I/61DqXda8DkL._SL500_.jpg&quot;);"></div> 
+         </div> 
+         <div class="item-info"> 
+          <h2 data-amazon-title="">World Trigger, Vol. 12 (English Edition)</h2> 
+          <div class="offer"> 
+           <span class="final-price" data-amazon-final-price="">R$ 22,00</span> 
+          </div> 
+         </div> 
+        </div>
+        <div class="item" data-amazon-item=""> 
+         <a href="https://www.amazon.com.br/dp/8417827927?tag=manga-livre-20&amp;linkCode=osi&amp;th=1&amp;psc=1" class="item-link" data-amazon-link="" target="_blank"></a> 
+         <div class="item-image"> 
+          <div class="cover" data-amazon-cover="" style="background-image: url(&quot;https://m.media-amazon.com/images/I/51NQJvkVYgL._SL500_.jpg&quot;);"></div> 
+         </div> 
+         <div class="item-info"> 
+          <h2 data-amazon-title="">Sí, soy una araña, ¿qué pasa? núm. 03</h2> 
+          <div class="offer"> 
+           <span class="final-price" data-amazon-final-price="">R$ 1,04</span> 
+          </div> 
+         </div> 
+        </div>
+        <div class="item" data-amazon-item=""> 
+         <a href="https://www.amazon.com.br/dp/6559604640?tag=manga-livre-20&amp;linkCode=osi&amp;th=1&amp;psc=1" class="item-link" data-amazon-link="" target="_blank"></a> 
+         <div class="item-image"> 
+          <div class="cover" data-amazon-cover="" style="background-image: url(&quot;https://m.media-amazon.com/images/I/614ljc35AKL._SL500_.jpg&quot;);"></div> 
+         </div> 
+         <div class="item-info"> 
+          <h2 data-amazon-title="">One Piece 3 em 1 Vol. 1</h2> 
+          <div class="offer"> 
+           <span class="final-price" data-amazon-final-price="">R$ 39,00</span> 
+          </div> 
+         </div> 
+        </div>
+        <div class="item" data-amazon-item=""> 
+         <a href="https://www.amazon.com.br/dp/1974727149?tag=manga-livre-20&amp;linkCode=osi&amp;th=1&amp;psc=1" class="item-link" data-amazon-link="" target="_blank"></a> 
+         <div class="item-image"> 
+          <div class="cover" data-amazon-cover="" style="background-image: url(&quot;https://m.media-amazon.com/images/I/51vGbd2KC1L._SL500_.jpg&quot;);"></div> 
+         </div> 
+         <div class="item-info"> 
+          <h2 data-amazon-title="">Kaiju No. 8, Vol. 2: Volume 2</h2> 
+          <div class="offer"> 
+           <span class="final-price" data-amazon-final-price="">R$ 51,00</span> 
+          </div> 
+         </div> 
+        </div>
+        <div class="item" data-amazon-item=""> 
+         <a href="https://www.amazon.com.br/dp/B08VDTTCD3?tag=manga-livre-20&amp;linkCode=osi&amp;th=1&amp;psc=1" class="item-link" data-amazon-link="" target="_blank"></a> 
+         <div class="item-image"> 
+          <div class="cover" data-amazon-cover="" style="background-image: url(&quot;https://m.media-amazon.com/images/I/51sPlgrFu6L._SL500_.jpg&quot;);"></div> 
+         </div> 
+         <div class="item-info"> 
+          <h2 data-amazon-title="">Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs (Light Novel) Vol. 2 (English Edition)</h2> 
+          <div class="offer"> 
+           <span class="final-price" data-amazon-final-price="">R$ 51,00</span> 
+          </div> 
+         </div> 
+        </div>
+        <div class="item" data-amazon-item=""> 
+         <a href="https://www.amazon.com.br/dp/8542603621?tag=manga-livre-20&amp;linkCode=osi&amp;th=1&amp;psc=1" class="item-link" data-amazon-link="" target="_blank"></a> 
+         <div class="item-image"> 
+          <div class="cover" data-amazon-cover="" style="background-image: url(&quot;https://m.media-amazon.com/images/I/51WcgGxGJ7L._SL500_.jpg&quot;);"></div> 
+         </div> 
+         <div class="item-info"> 
+          <h2 data-amazon-title="">One-Punch Man Vol. 01</h2> 
+          <div class="offer"> 
+           <span class="final-price" data-amazon-final-price="">R$ 106,00</span> 
+          </div> 
+         </div> 
+        </div>
+        <div class="item" data-amazon-item=""> 
+         <a href="https://www.amazon.com.br/dp/8864685332?tag=manga-livre-20&amp;linkCode=osi&amp;th=1&amp;psc=1" class="item-link" data-amazon-link="" target="_blank"></a> 
+         <div class="item-image"> 
+          <div class="cover" data-amazon-cover="" style="background-image: url(&quot;https://m.media-amazon.com/images/I/61g44+IzIfL._SL500_.jpg&quot;);"></div> 
+         </div> 
+         <div class="item-info"> 
+          <h2 data-amazon-title="">Kingdom (Vol. 7)</h2> 
+          <div class="offer"> 
+           <span class="final-price" data-amazon-final-price="">R$ 204,00</span> 
+          </div> 
+         </div> 
+        </div>
+        <div class="item" data-amazon-item=""> 
+         <a href="https://www.amazon.com.br/dp/6555129026?tag=manga-livre-20&amp;linkCode=osi&amp;th=1&amp;psc=1" class="item-link" data-amazon-link="" target="_blank"></a> 
+         <div class="item-image"> 
+          <div class="cover" data-amazon-cover="" style="background-image: url(&quot;https://m.media-amazon.com/images/I/41KfF8uQD3L._SL500_.jpg&quot;);"></div> 
+         </div> 
+         <div class="item-info"> 
+          <h2 data-amazon-title="">Spy X Family Vol. 3</h2> 
+          <div class="offer"> 
+           <span class="final-price" data-amazon-final-price="">R$ 210,00</span> 
+          </div> 
+         </div> 
+        </div>
+        <div class="item" data-amazon-item=""> 
+         <a href="https://www.amazon.com.br/dp/6559822761?tag=manga-livre-20&amp;linkCode=osi&amp;th=1&amp;psc=1" class="item-link" data-amazon-link="" target="_blank"></a> 
+         <div class="item-image"> 
+          <div class="cover" data-amazon-cover="" style="background-image: url(&quot;https://m.media-amazon.com/images/I/41p5K5Mes5S._SL500_.jpg&quot;);"></div> 
+         </div> 
+         <div class="item-info"> 
+          <h2 data-amazon-title="">Spy X Family Vol. 6</h2> 
+          <div class="offer"> 
+           <span class="final-price" data-amazon-final-price="">R$ 69,00</span> 
+          </div> 
+         </div> 
+        </div>
+        <div class="item" data-amazon-item=""> 
+         <a href="https://www.amazon.com.br/dp/B00FDZLAZ6?tag=manga-livre-20&amp;linkCode=osi&amp;th=1&amp;psc=1" class="item-link" data-amazon-link="" target="_blank"></a> 
+         <div class="item-image"> 
+          <div class="cover" data-amazon-cover="" style="background-image: url(&quot;https://m.media-amazon.com/images/I/51q2wjJiylL._SL500_.jpg&quot;);"></div> 
+         </div> 
+         <div class="item-info"> 
+          <h2 data-amazon-title="">Barrage, Vol. 2 (English Edition)</h2> 
+          <div class="offer"> 
+           <span class="final-price" data-amazon-final-price="">R$ 25,00</span> 
+          </div> 
+         </div> 
+        </div>
+        <div class="item" data-amazon-item=""> 
+         <a href="https://www.amazon.com.br/dp/6559821390?tag=manga-livre-20&amp;linkCode=osi&amp;th=1&amp;psc=1" class="item-link" data-amazon-link="" target="_blank"></a> 
+         <div class="item-image"> 
+          <div class="cover" data-amazon-cover="" style="background-image: url(&quot;https://m.media-amazon.com/images/I/51Kh-j4ZDsL._SL500_.jpg&quot;);"></div> 
+         </div> 
+         <div class="item-info"> 
+          <h2 data-amazon-title="">Dragon Ball Super - 15</h2> 
+          <div class="offer"> 
+           <span class="final-price" data-amazon-final-price="">R$ 29,00</span> 
+          </div> 
+         </div> 
+        </div>
+        <div class="item" data-amazon-item=""> 
+         <a href="https://www.amazon.com.br/dp/8542612582?tag=manga-livre-20&amp;linkCode=osi&amp;th=1&amp;psc=1" class="item-link" data-amazon-link="" target="_blank"></a> 
+         <div class="item-image"> 
+          <div class="cover" data-amazon-cover="" style="background-image: url(&quot;https://m.media-amazon.com/images/I/51DgjxkudtL._SL500_.jpg&quot;);"></div> 
+         </div> 
+         <div class="item-info"> 
+          <h2 data-amazon-title="">Dragon Ball Super - Volume 1</h2> 
+          <div class="offer"> 
+           <span class="final-price" data-amazon-final-price="">R$ 27,00</span> 
+          </div> 
+         </div> 
+        </div>
+        <div class="item" data-amazon-item=""> 
+         <a href="https://www.amazon.com.br/dp/8418450193?tag=manga-livre-20&amp;linkCode=osi&amp;th=1&amp;psc=1" class="item-link" data-amazon-link="" target="_blank"></a> 
+         <div class="item-image"> 
+          <div class="cover" data-amazon-cover="" style="background-image: url(&quot;https://m.media-amazon.com/images/I/51UMJNZEr0L._SL500_.jpg&quot;);"></div> 
+         </div> 
+         <div class="item-info"> 
+          <h2 data-amazon-title="">Shuumatsu No Valkyrie-Record of Ragnarök 1</h2> 
+          <div class="offer"> 
+           <span class="final-price" data-amazon-final-price="">R$ 402,00</span> 
+          </div> 
+         </div> 
+        </div>
+        <div class="item" data-amazon-item=""> 
+         <a href="https://www.amazon.com.br/dp/1632368358?tag=manga-livre-20&amp;linkCode=osi&amp;th=1&amp;psc=1" class="item-link" data-amazon-link="" target="_blank"></a> 
+         <div class="item-image"> 
+          <div class="cover" data-amazon-cover="" style="background-image: url(&quot;https://m.media-amazon.com/images/I/51WVtd-7csL._SL500_.jpg&quot;);"></div> 
+         </div> 
+         <div class="item-info"> 
+          <h2 data-amazon-title="">Gleipnir 4</h2> 
+          <div class="offer"> 
+           <span class="final-price" data-amazon-final-price="">R$ 54,00</span> 
+          </div> 
+         </div> 
+        </div>
+        <div class="item" data-amazon-item=""> 
+         <a href="https://www.amazon.com.br/dp/B07W4FZWDL?tag=manga-livre-20&amp;linkCode=osi&amp;th=1&amp;psc=1" class="item-link" data-amazon-link="" target="_blank"></a> 
+         <div class="item-image"> 
+          <div class="cover" data-amazon-cover="" style="background-image: url(&quot;https://m.media-amazon.com/images/I/51KP8RqxKsL._SL500_.jpg&quot;);"></div> 
+         </div> 
+         <div class="item-info"> 
+          <h2 data-amazon-title="">Mushoku Tensei: Jobless Reincarnation (Light Novel) Vol. 4 (English Edition)</h2> 
+          <div class="offer"> 
+           <span class="final-price" data-amazon-final-price="">R$ 46,00</span> 
+          </div> 
+         </div> 
+        </div>
+        <div class="item" data-amazon-item=""> 
+         <a href="https://www.amazon.com.br/dp/1975324536?tag=manga-livre-20&amp;linkCode=osi&amp;th=1&amp;psc=1" class="item-link" data-amazon-link="" target="_blank"></a> 
+         <div class="item-image"> 
+          <div class="cover" data-amazon-cover="" style="background-image: url(&quot;https://m.media-amazon.com/images/I/51+2CbUlQ1S._SL500_.jpg&quot;);"></div> 
+         </div> 
+         <div class="item-info"> 
+          <h2 data-amazon-title="">The Case Study of Vanitas, Vol. 8</h2> 
+          <div class="offer"> 
+           <span class="final-price" data-amazon-final-price="">R$ 63,00</span> 
+          </div> 
+         </div> 
+        </div>
+        <div class="item" data-amazon-item=""> 
+         <a href="https://www.amazon.com.br/dp/B09H7PSHK4?tag=manga-livre-20&amp;linkCode=osi&amp;th=1&amp;psc=1" class="item-link" data-amazon-link="" target="_blank"></a> 
+         <div class="item-image"> 
+          <div class="cover" data-amazon-cover="" style="background-image: url(&quot;https://m.media-amazon.com/images/I/51vC8UaXqPL._SL500_.jpg&quot;);"></div> 
+         </div> 
+         <div class="item-info"> 
+          <h2 data-amazon-title="">Library of Heaven's Path（Book 4） (English Edition)</h2> 
+          <div class="offer"> 
+           <span class="final-price" data-amazon-final-price="">R$ 24,00</span> 
+          </div> 
+         </div> 
+        </div>
+        <div class="item" data-amazon-item=""> 
+         <a href="https://www.amazon.com.br/dp/8418450932?tag=manga-livre-20&amp;linkCode=osi&amp;th=1&amp;psc=1" class="item-link" data-amazon-link="" target="_blank"></a> 
+         <div class="item-image"> 
+          <div class="cover" data-amazon-cover="" style="background-image: url(&quot;https://m.media-amazon.com/images/I/51poaVQmz5L._SL500_.jpg&quot;);"></div> 
+         </div> 
+         <div class="item-info"> 
+          <h2 data-amazon-title="">Shuumatsu No Valkyrie-Record of Ragnarök 2</h2> 
+          <div class="offer"> 
+           <span class="final-price" data-amazon-final-price="">R$ 434,00</span> 
+          </div> 
+         </div> 
+        </div>
+        <div class="item" data-amazon-item=""> 
+         <a href="https://www.amazon.com.br/dp/8418751118?tag=manga-livre-20&amp;linkCode=osi&amp;th=1&amp;psc=1" class="item-link" data-amazon-link="" target="_blank"></a> 
+         <div class="item-image"> 
+          <div class="cover" data-amazon-cover="" style="background-image: url(&quot;https://m.media-amazon.com/images/I/51ol72xC5KS._SL500_.jpg&quot;);"></div> 
+         </div> 
+         <div class="item-info"> 
+          <h2 data-amazon-title="">Hanako-Kun : El Fantasma del Lavabo 3</h2> 
+          <div class="offer"> 
+           <span class="final-price" data-amazon-final-price="">R$ 402,00</span> 
+          </div> 
+         </div> 
+        </div>
+        <div class="item" data-amazon-item=""> 
+         <a href="https://www.amazon.com.br/dp/1646516621?tag=manga-livre-20&amp;linkCode=osi&amp;th=1&amp;psc=1" class="item-link" data-amazon-link="" target="_blank"></a> 
+         <div class="item-image"> 
+          <div class="cover" data-amazon-cover="" style="background-image: url(&quot;https://m.media-amazon.com/images/I/01AodW1Gh-L._SL500_.jpg&quot;);"></div> 
+         </div> 
+         <div class="item-info"> 
+          <h2 data-amazon-title="">Blue Lock 5</h2> 
+          <div class="offer"> 
+           <span class="final-price" data-amazon-final-price="">R$ 63,00</span> 
+          </div> 
+         </div> 
+        </div>
+        <div class="item" data-amazon-item=""> 
+         <a href="https://www.amazon.com.br/dp/6555940638?tag=manga-livre-20&amp;linkCode=osi&amp;th=1&amp;psc=1" class="item-link" data-amazon-link="" target="_blank"></a> 
+         <div class="item-image"> 
+          <div class="cover" data-amazon-cover="" style="background-image: url(&quot;https://m.media-amazon.com/images/I/51k0UQmfiNL._SL500_.jpg&quot;);"></div> 
+         </div> 
+         <div class="item-info"> 
+          <h2 data-amazon-title="">That Time I Got Reincarnated as a Slime - Vol. 06</h2> 
+          <div class="offer"> 
+           <span class="final-price" data-amazon-final-price="">R$ 21,00</span> 
+          </div> 
+         </div> 
+        </div>
+        <div class="item" data-amazon-item=""> 
+         <a href="https://www.amazon.com.br/dp/1646516559?tag=manga-livre-20&amp;linkCode=osi&amp;th=1&amp;psc=1" class="item-link" data-amazon-link="" target="_blank"></a> 
+         <div class="item-image"> 
+          <div class="cover" data-amazon-cover="" style="background-image: url(&quot;https://m.media-amazon.com/images/I/51JDyTL7AgL._SL500_.jpg&quot;);"></div> 
+         </div> 
+         <div class="item-info"> 
+          <h2 data-amazon-title="">Blue Lock 2</h2> 
+          <div class="offer"> 
+           <span class="final-price" data-amazon-final-price="">R$ 66,00</span> 
+          </div> 
+         </div> 
+        </div>
+        <div class="item" data-amazon-item=""> 
+         <a href="https://www.amazon.com.br/dp/1646512898?tag=manga-livre-20&amp;linkCode=osi&amp;th=1&amp;psc=1" class="item-link" data-amazon-link="" target="_blank"></a> 
+         <div class="item-image"> 
+          <div class="cover" data-amazon-cover="" style="background-image: url(&quot;https://m.media-amazon.com/images/I/51UmycVTImL._SL500_.jpg&quot;);"></div> 
+         </div> 
+         <div class="item-info"> 
+          <h2 data-amazon-title="">Shikimori's Not Just a Cutie 7</h2> 
+          <div class="offer"> 
+           <span class="final-price" data-amazon-final-price="">R$ 63,00</span> 
+          </div> 
+         </div> 
+        </div>
+        <div class="item" data-amazon-item=""> 
+         <a href="https://www.amazon.com.br/dp/B08KSQJXM8?tag=manga-livre-20&amp;linkCode=osi&amp;th=1&amp;psc=1" class="item-link" data-amazon-link="" target="_blank"></a> 
+         <div class="item-image"> 
+          <div class="cover" data-amazon-cover="" style="background-image: url(&quot;https://m.media-amazon.com/images/I/5174zrDbT9L._SL500_.jpg&quot;);"></div> 
+         </div> 
+         <div class="item-info"> 
+          <h2 data-amazon-title="">Shikimori's Not Just a Cutie Vol. 1 (English Edition)</h2> 
+          <div class="offer"> 
+           <span class="final-price" data-amazon-final-price="">R$ 39,00</span> 
+          </div> 
+         </div> 
+        </div>
+        <div class="item" data-amazon-item=""> 
+         <a href="https://www.amazon.com.br/dp/1421590441?tag=manga-livre-20&amp;linkCode=osi&amp;th=1&amp;psc=1" class="item-link" data-amazon-link="" target="_blank"></a> 
+         <div class="item-image"> 
+          <div class="cover" data-amazon-cover="" style="background-image: url(&quot;https://m.media-amazon.com/images/I/51tCDS2gd3L._SL500_.jpg&quot;);"></div> 
+         </div> 
+         <div class="item-info"> 
+          <h2 data-amazon-title="">World Trigger, Vol. 13, 13</h2> 
+          <div class="offer"> 
+           <span class="final-price" data-amazon-final-price="">R$ 44,00</span> 
+          </div> 
+         </div> 
+        </div>
+        <div class="item" data-amazon-item=""> 
+         <a href="https://www.amazon.com.br/dp/6559601811?tag=manga-livre-20&amp;linkCode=osi&amp;th=1&amp;psc=1" class="item-link" data-amazon-link="" target="_blank"></a> 
+         <div class="item-image"> 
+          <div class="cover" data-amazon-cover="" style="background-image: url(&quot;https://m.media-amazon.com/images/I/51XGUs9wPJS._SL500_.jpg&quot;);"></div> 
+         </div> 
+         <div class="item-info"> 
+          <h2 data-amazon-title="">Kaguya Sama - Love is War Vol. 5</h2> 
+          <div class="offer"> 
+           <span class="final-price" data-amazon-final-price="">R$ 29,00</span> 
+          </div> 
+         </div> 
+        </div>
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <script type="text/javascript">
+    (window.amazonOffers = window.amazonOffers || []).push({});
+</script> 
+    <!-- LEFT SIDE --> 
+    <div id="left-side" style="height: auto !important;"> 
+     <!-- LANÇAMENTOS --> 
+     <div id="lancamentos" class="tag-container left-container" style="height: auto !important;"> 
+      <div class="main-bg-image"></div> 
+      <div class="main-bg-pattern"></div> 
+      <!-- CONTENT WRAPER --> 
+      <div class="content-wraper" style="height: auto !important;"> 
+       <a href="/lista-de-mangas/ordenar-por-atualizacoes" title="Últimas atualizações de mangás"> <h2> Lista de Lançamentos 
+         <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 9.8 14" class="mp-icon arrow-icon right replaced-svg">
+          <path d="M0.6 0.6c-0.8 0.8-0.8 2 0 2.8L4.2 7l-3.6 3.6c-0.8 0.8-0.8 2 0 2.8C1 13.8 1.5 14 2 14s1-0.2 1.4-0.6L9.8 7 3.4 0.6C2.6-0.2 1.4-0.2 0.6 0.6z"></path>
+         </svg> </h2> </a> 
+       <!-- LANÇAMENTO HOJE --> 
+       <div id="recent_releases" style="height: auto !important;">
+        <div class="date-tag menu-tag hoje">
+         <span>hoje</span>
+        </div>
+        <div id="lancamento-hoje" class="lancamento hoje" style="height: auto !important;">
+         <ul style="height: auto !important;">
+          <li>
+           <div class="cover-image"> 
+            <picture> 
+             <source srcset="https://static3.mangalivre.net/capas/xuP6C26zPAMmyaWFlc1APw/9969/thumb_external_cover.jpg.avif" type="image/avif"> 
+             <img src="https://static3.mangalivre.net/capas/8O4MT2Fn9_ZyTuArTr8BiQ/9969/thumb_external_cover.jpg" referrerpolicy="no-referrer"> 
+            </picture> 
+            <a href="/manga/castle/9969" class="link-block" title="Ler Castle Online" style="display:block; height:100% !important"></a>
+           </div>
+           <div class="lancamento-desc">
+            <a href="/manga/castle/9969" title="Ler Castle Capitulo 53"><h1><span class="lancamento-title">Castle</span></h1></a>
+            <ul class="lancamento-list"> 
+             <li><a href="/ler/castle/online/387774/53" title="Ler o Capitulo 53 de Castle online">53</a></li> 
+            </ul>
+            <img src="/assets/images/layout/lancamento-scan.png" alt="Scanlator"> 
+            <a href="/scanlator/limboscan/2904" class="lancamento-scan"> LimboScan</a>
+           </div></li> 
+          <li>
+           <div class="cover-image"> 
+            <picture> 
+             <source srcset="https://static3.mangalivre.net/capas/PobeR2YyC7Vj487lSWLswA/10123/thumb_external_cover.jpg.avif" type="image/avif"> 
+             <img src="https://static3.mangalivre.net/capas/a5KH2pH3PTMNRtNq2cMewA/10123/thumb_external_cover.jpg" referrerpolicy="no-referrer"> 
+            </picture> 
+            <a href="/manga/3cm-hunter/10123" class="link-block" title="Ler 3CM Hunter Online" style="display:block; height:100% !important"></a>
+           </div>
+           <div class="lancamento-desc">
+            <a href="/manga/3cm-hunter/10123" title="Ler 3CM Hunter Capitulo 106~107"><h1><span class="lancamento-title">3CM Hunter</span></h1></a>
+            <ul class="lancamento-list"> 
+             <li><a href="/ler/3cm-hunter/online/387775/107" title="Ler o Capitulo 107 de 3CM Hunter online">107</a></li> 
+             <li><a href="/ler/3cm-hunter/online/387762/106" title="Ler o Capitulo 106 de 3CM Hunter online">106</a></li> 
+            </ul>
+            <img src="/assets/images/layout/lancamento-scan.png" alt="Scanlator"> 
+            <a href="/scanlator/centipede-scans/2762" class="lancamento-scan"> Centipede Scans</a>
+           </div></li> 
+          <li>
+           <div class="cover-image"> 
+            <picture> 
+             <source srcset="https://static3.mangalivre.net/capas/Livki6DMpXP4PMSrC6TumQ/14208/thumb_61aba9af0a6caexternal_cover.jpg.avif" type="image/avif"> 
+             <img src="https://static3.mangalivre.net/capas/4-UjFr5FtmCbMvqDakMEGg/14208/thumb_61aba9af0a6caexternal_cover.jpg" referrerpolicy="no-referrer"> 
+            </picture> 
+            <a href="/manga/tengen-hero-taisen/14208" class="link-block" title="Ler Tengen Hero Taisen Online" style="display:block; height:100% !important"></a>
+           </div>
+           <div class="lancamento-desc">
+            <a href="/manga/tengen-hero-taisen/14208" title="Ler Tengen Hero Taisen Capitulo 4"><h1><span class="lancamento-title">Tengen Hero Taisen</span></h1></a>
+            <ul class="lancamento-list"> 
+             <li><a href="/ler/tengen-hero-taisen/online/387773/4" title="Ler o Capitulo 4 de Tengen Hero Taisen online">4</a></li> 
+            </ul>
+            <img src="/assets/images/layout/lancamento-scan.png" alt="Scanlator"> 
+            <a href="/scanlator/mangaverso/1711" class="lancamento-scan"> Mangáverso</a>, 
+            <a href="/scanlator/eclipse-scanlators/2025" class="lancamento-scan"> Eclipse Scanlator's</a>
+           </div></li> 
+          <li>
+           <div class="cover-image"> 
+            <picture> 
+             <source srcset="https://static3.mangalivre.net/capas/LUQ_keTRMEsvb464GoKQpg/13451/blurred_thumb_6126c8008f3beexternal_cover.jpg.avif" type="image/avif"> 
+             <img src="https://static3.mangalivre.net/capas/mdAqv3NvGxepBWC9OnfiVw/13451/blurred_thumb_6126c8008f3beexternal_cover.jpg" referrerpolicy="no-referrer"> 
+            </picture> 
+            <a href="/manga/do-you-want-a-service/13451" class="link-block" title="Ler Do You Want a Service? Online" style="display:block; height:100% !important"></a>
+           </div>
+           <div class="lancamento-desc">
+            <a href="/manga/do-you-want-a-service/13451" title="Ler Do You Want a Service? Capitulo 20"><h1><span class="lancamento-title">Do You Want a Service?</span></h1></a>
+            <ul class="lancamento-list"> 
+             <li><a href="/ler/do-you-want-a-service/online/387772/20" title="Ler o Capitulo 20 de Do You Want a Service? online">20</a></li> 
+            </ul>
+            <img src="/assets/images/layout/lancamento-scan.png" alt="Scanlator"> 
+            <a href="/scanlator/mangateca-scan/1800" class="lancamento-scan"> MangaTeca Scan</a>
+           </div></li> 
+          <li>
+           <div class="cover-image"> 
+            <picture> 
+             <source srcset="https://static3.mangalivre.net/capas/hWZ5KA7m5JP14aV0B8t6PQ/12230/blurred_thumb_6064a48ccd515external_cover.jpg.avif" type="image/avif"> 
+             <img src="https://static3.mangalivre.net/capas/DRePO50lzfThukqB7W38zA/12230/blurred_thumb_6064a48ccd515external_cover.jpg" referrerpolicy="no-referrer"> 
+            </picture> 
+            <a href="/manga/beach-goddess/12230" class="link-block" title="Ler Beach Goddess Online" style="display:block; height:100% !important"></a>
+           </div>
+           <div class="lancamento-desc">
+            <a href="/manga/beach-goddess/12230" title="Ler Beach Goddess Capitulo 26"><h1><span class="lancamento-title">Beach Goddess</span></h1></a>
+            <ul class="lancamento-list"> 
+             <li><a href="/ler/beach-goddess/online/387771/26" title="Ler o Capitulo 26 de Beach Goddess online">26</a></li> 
+            </ul>
+            <img src="/assets/images/layout/lancamento-scan.png" alt="Scanlator"> 
+            <a href="/scanlator/mangateca-scan/1800" class="lancamento-scan"> MangaTeca Scan</a>
+           </div></li> 
+          <li>
+           <div class="cover-image"> 
+            <picture> 
+             <source srcset="https://static3.mangalivre.net/capas/GGyXUTwakoU3ALmyBH01qw/10996/thumb_61b27c2ae7c0bexternal_cover.jpg.avif" type="image/avif"> 
+             <img src="https://static3.mangalivre.net/capas/ESWZczCyU6wx_rDBZH4ikg/10996/thumb_61b27c2ae7c0bexternal_cover.jpg" referrerpolicy="no-referrer"> 
+            </picture> 
+            <a href="/manga/isekai-teni-shita-node-cheat-wo-ikashite-mahou-kenshi-yaru-koto-ni-suru/10996" class="link-block" title="Ler Isekai Teni shita node Cheat wo Ikashite Mahou Kenshi Yaru Koto ni Suru Online" style="display:block; height:100% !important"></a>
+           </div>
+           <div class="lancamento-desc">
+            <a href="/manga/isekai-teni-shita-node-cheat-wo-ikashite-mahou-kenshi-yaru-koto-ni-suru/10996" title="Ler Isekai Teni shita node Cheat wo Ikashite Mahou Kenshi Yaru Koto ni Suru Capitulo 01.1"><h1><span class="lancamento-title">Isekai Teni shita node Cheat wo Ikashite Mahou Kenshi Yaru Koto ni Suru</span></h1></a>
+            <ul class="lancamento-list"> 
+             <li><a href="/ler/isekai-teni-shita-node-cheat-wo-ikashite-mahou-kenshi-yaru-koto-ni-suru/online/387770/01-1" title="Ler o Capitulo 01.1 de Isekai Teni shita node Cheat wo Ikashite Mahou Kenshi Yaru Koto ni Suru online">01.1</a></li> 
+            </ul>
+            <img src="/assets/images/layout/lancamento-scan.png" alt="Scanlator"> 
+            <a href="/scanlator/izakaya-scan/2651" class="lancamento-scan"> Izakaya Scan</a>
+           </div></li> 
+          <li>
+           <div class="cover-image"> 
+            <picture> 
+             <source srcset="https://static3.mangalivre.net/capas/sKU-B6Tb62fXKA1oZAPNBw/7401/thumb_external_cover.jpg.avif" type="image/avif"> 
+             <img src="https://static3.mangalivre.net/capas/ddbl0SL94yjRs80XrQa8Ag/7401/thumb_external_cover.jpg" referrerpolicy="no-referrer"> 
+            </picture> 
+            <a href="/manga/prince-dont-do-this/7401" class="link-block" title="Ler Prince, Don’t Do This! Online" style="display:block; height:100% !important"></a>
+           </div>
+           <div class="lancamento-desc">
+            <a href="/manga/prince-dont-do-this/7401" title="Ler Prince, Don’t Do This! Capitulo 285~286"><h1><span class="lancamento-title">Prince, Don’t Do This!</span></h1></a>
+            <ul class="lancamento-list"> 
+             <li><a href="/ler/prince-dont-do-this/online/387769/286" title="Ler o Capitulo 286 de Prince, Don’t Do This! online">286</a></li> 
+             <li><a href="/ler/prince-dont-do-this/online/387768/285" title="Ler o Capitulo 285 de Prince, Don’t Do This! online">285</a></li> 
+            </ul>
+            <img src="/assets/images/layout/lancamento-scan.png" alt="Scanlator"> 
+            <a href="/scanlator/otaku-nya-scan/451" class="lancamento-scan"> Otaku Nya Scan</a>
+           </div></li> 
+          <li style="height: auto !important;">
+           <div class="cover-image"> 
+            <picture> 
+             <source srcset="https://static3.mangalivre.net/capas/6EbsaryAywWHiErNLiBzVg/8875/thumb_external_cover.jpg.avif" type="image/avif"> 
+             <img src="https://static3.mangalivre.net/capas/rAqbOg1cDebR7T_fAK-SZg/8875/thumb_external_cover.jpg" referrerpolicy="no-referrer"> 
+            </picture> 
+            <a href="/manga/asper-kanojo/8875" class="link-block" title="Ler Asper Kanojo Online" style="display:block; height:100% !important"></a>
+           </div>
+           <div class="lancamento-desc">
+            <a href="/manga/asper-kanojo/8875" title="Ler Asper Kanojo Capitulo 41"><h1><span class="lancamento-title">Asper Kanojo</span></h1></a>
+            <ul class="lancamento-list"> 
+             <li><a href="/ler/asper-kanojo/online/387767/41" title="Ler o Capitulo 41 de Asper Kanojo online">41</a></li> 
+            </ul>
+            <img src="/assets/images/layout/lancamento-scan.png" alt="Scanlator"> 
+            <a href="/scanlator/cacatua-scan/2072" class="lancamento-scan"> Cacatua Scan</a>
+           </div>
+           <div class="google-auto-placed" style="width: 100%; height: auto; clear: none; text-align: center;">
+            <ins data-ad-format="auto" class="adsbygoogle adsbygoogle-noablate" data-ad-client="ca-pub-4069487474431685" data-adsbygoogle-status="done" style="display: block; margin: 1px auto 10px; background-color: transparent; height: 280px;" data-ad-status="filled"><ins id="aswift_8_expand" tabindex="0" title="Advertisement" aria-label="Advertisement" style="border: none; height: 280px; width: 686px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-table;"><ins id="aswift_8_anchor" style="border: none; height: 280px; width: 686px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: block; overflow: visible;"><iframe id="aswift_8" name="aswift_8" style="left:0;position:absolute;top:0;border:0;width:686px;height:280px;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="686" height="280" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" src="https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-4069487474431685&amp;output=html&amp;h=280&amp;adk=327556224&amp;adf=1716859794&amp;pi=t.aa~a.4215881147~rp.3&amp;w=686&amp;fwrn=4&amp;fwrnh=100&amp;lmt=1655002458&amp;rafmt=1&amp;to=qs&amp;pwprc=7184515305&amp;psa=0&amp;format=686x280&amp;url=https%3A%2F%2Fmangalivre.net%2F&amp;fwr=0&amp;pra=3&amp;rpe=1&amp;resp_fmts=3&amp;wgl=1&amp;fa=40&amp;dt=1655002458337&amp;bpp=12&amp;bdt=10199&amp;idt=12&amp;shv=r20220608&amp;mjsv=m202206080101&amp;ptt=9&amp;saldr=aa&amp;abxe=1&amp;cookie=ID%3D409ebc0ba3253f25-22a0e800587c0072%3AT%3D1655002455%3ART%3D1655002455%3AS%3DALNI_MYU3eTpSz7z-5uG5bbWjJXmh4nqSQ&amp;gpic=UID%3D000006b86b925c75%3AT%3D1655002455%3ART%3D1655002455%3AS%3DALNI_MbxMvv94LEsXtFUN9Ku5XmrygC0Fw&amp;prev_fmts=0x0%2C716x280%2C336x280%2C716x280&amp;nras=3&amp;correlator=4208141991514&amp;frm=20&amp;pv=1&amp;ga_vid=2043198976.1655002455&amp;ga_sid=1655002455&amp;ga_hid=253882783&amp;ga_fc=0&amp;u_tz=-180&amp;u_his=4&amp;u_h=1273&amp;u_w=716&amp;u_ah=1273&amp;u_aw=716&amp;u_cd=24&amp;u_sd=1.006&amp;dmc=2&amp;adx=15&amp;ady=2010&amp;biw=716&amp;bih=1147&amp;scr_x=0&amp;scr_y=0&amp;eid=44759876%2C44759927%2C44759837%2C44761043%2C31067971%2C31060048%2C31064019%2C31062931&amp;oid=2&amp;pvsid=673035743870095&amp;tmod=1715656847&amp;uas=0&amp;nvt=1&amp;eae=0&amp;fc=1920&amp;brdim=0%2C0%2C0%2C0%2C716%2C0%2C716%2C1147%2C717%2C1148&amp;vis=1&amp;rsz=%7C%7Cs%7C&amp;abl=NS&amp;fu=1152&amp;bc=31&amp;ifi=9&amp;uci=a!9&amp;btvi=4&amp;fsb=1&amp;xpc=x3OZIC7OfJ&amp;p=https%3A//mangalivre.net&amp;dtd=305" data-google-container-id="a!9" data-google-query-id="CKTzz830pvgCFeME-QAdZOkGyQ" data-load-complete="true"></iframe></ins></ins></ins>
+           </div></li> 
+          <li>
+           <div class="cover-image"> 
+            <picture> 
+             <source srcset="https://static3.mangalivre.net/capas/qCKeg2lCu2x1oAjUz5A2AA/15398/thumb_62a529ab837b4_external_cover.jpg.avif" type="image/avif"> 
+             <img src="https://static3.mangalivre.net/capas/SLR9zg2kJvdrkrp8GTtXwg/15398/thumb_62a529ab837b4_external_cover.jpg" referrerpolicy="no-referrer"> 
+            </picture> 
+            <a href="/manga/persona-5/15398" class="link-block" title="Ler Persona 5 Online" style="display:block; height:100% !important"></a>
+           </div>
+           <div class="lancamento-desc">
+            <a href="/manga/persona-5/15398" title="Ler Persona 5 Capitulo 1"><h1><span class="lancamento-title">Persona 5</span></h1></a>
+            <ul class="lancamento-list"> 
+             <li><a href="/ler/persona-5/online/387766/1" title="Ler o Capitulo 1 de Persona 5 online">1</a></li> 
+            </ul>
+            <img src="/assets/images/layout/lancamento-scan.png" alt="Scanlator"> 
+            <a href="/scanlator/sirius-scanlator/1171" class="lancamento-scan"> Sirius Scanlator</a>
+           </div></li> 
+          <li>
+           <div class="cover-image"> 
+            <picture> 
+             <source srcset="https://static3.mangalivre.net/capas/TIhcB_MaQM7gCLufPKKkJw/14273/thumb_61b527243d3e7external_cover.jpg.avif" type="image/avif"> 
+             <img src="https://static3.mangalivre.net/capas/7cLhXgTdinUkgRhP1UUmDw/14273/thumb_61b527243d3e7external_cover.jpg" referrerpolicy="no-referrer"> 
+            </picture> 
+            <a href="/manga/i-wont-accept-your-regret/14273" class="link-block" title="Ler I Won’t Accept Your Regret Online" style="display:block; height:100% !important"></a>
+           </div>
+           <div class="lancamento-desc">
+            <a href="/manga/i-wont-accept-your-regret/14273" title="Ler I Won’t Accept Your Regret Capitulo 39~40"><h1><span class="lancamento-title">I Won’t Accept Your Regret</span></h1></a>
+            <ul class="lancamento-list"> 
+             <li><a href="/ler/i-wont-accept-your-regret/online/387765/40" title="Ler o Capitulo 40 de I Won’t Accept Your Regret online">40</a></li> 
+             <li><a href="/ler/i-wont-accept-your-regret/online/387756/39" title="Ler o Capitulo 39 de I Won’t Accept Your Regret online">39</a></li> 
+            </ul>
+            <img src="/assets/images/layout/lancamento-scan.png" alt="Scanlator"> 
+            <a href="/scanlator/glass-sky/2725" class="lancamento-scan"> Glass Sky</a>
+           </div></li> 
+          <li>
+           <div class="cover-image"> 
+            <picture> 
+             <source srcset="https://static3.mangalivre.net/capas/ChDPFcg_ZMvhCJdECOk2eA/14550/thumb_61eb63e215caeexternal_cover.jpg.avif" type="image/avif"> 
+             <img src="https://static3.mangalivre.net/capas/ijgRnNtlX-ALP9ogN35rcA/14550/thumb_61eb63e215caeexternal_cover.jpg" referrerpolicy="no-referrer"> 
+            </picture> 
+            <a href="/manga/good-night-world/14550" class="link-block" title="Ler Good Night World Online" style="display:block; height:100% !important"></a>
+           </div>
+           <div class="lancamento-desc">
+            <a href="/manga/good-night-world/14550" title="Ler Good Night World Capitulo 18"><h1><span class="lancamento-title">Good Night World</span></h1></a>
+            <ul class="lancamento-list"> 
+             <li><a href="/ler/good-night-world/online/387764/18" title="Ler o Capitulo 18 de Good Night World online">18</a></li> 
+            </ul>
+            <img src="/assets/images/layout/lancamento-scan.png" alt="Scanlator"> 
+            <a href="/scanlator/futaba-scan/2715" class="lancamento-scan"> Futaba Scan</a>
+           </div></li> 
+          <li>
+           <div class="cover-image"> 
+            <picture> 
+             <source srcset="https://static3.mangalivre.net/capas/RY3Hq690jeY9iuncs9UoWg/15333/thumb_6297ba80d77d6_capa.jpg.avif" type="image/avif"> 
+             <img src="https://static3.mangalivre.net/capas/IOMmQe7WtYaDO57wKGCX2g/15333/thumb_6297ba80d77d6_capa.jpg" referrerpolicy="no-referrer"> 
+            </picture> 
+            <a href="/manga/otherworldly-magical-daoist-priest/15333" class="link-block" title="Ler Otherworldly Magical Daoist Priest Online" style="display:block; height:100% !important"></a>
+           </div>
+           <div class="lancamento-desc">
+            <a href="/manga/otherworldly-magical-daoist-priest/15333" title="Ler Otherworldly Magical Daoist Priest Capitulo 3"><h1><span class="lancamento-title">Otherworldly Magical Daoist Priest</span></h1></a>
+            <ul class="lancamento-list"> 
+             <li><a href="/ler/otherworldly-magical-daoist-priest/online/387763/3" title="Ler o Capitulo 3 de Otherworldly Magical Daoist Priest online">3</a></li> 
+            </ul>
+            <img src="/assets/images/layout/lancamento-scan.png" alt="Scanlator"> 
+            <a href="/scanlator/nazarick-scan/1799" class="lancamento-scan"> Nazarick Scan</a>
+           </div></li> 
+          <li>
+           <div class="cover-image"> 
+            <picture> 
+             <source srcset="https://static3.mangalivre.net/capas/1JWbK-omA0PsbWNNo_8JIg/152/thumb_external_cover.jpg.avif" type="image/avif"> 
+             <img src="https://static3.mangalivre.net/capas/R2iNy4o1vU36d6dmOMUTmw/152/thumb_external_cover.jpg" referrerpolicy="no-referrer"> 
+            </picture> 
+            <a href="/manga/gintama/152" class="link-block" title="Ler Gintama Online" style="display:block; height:100% !important"></a>
+           </div>
+           <div class="lancamento-desc">
+            <a href="/manga/gintama/152" title="Ler Gintama Capitulo 347~348"><h1><span class="lancamento-title">Gintama</span></h1></a>
+            <ul class="lancamento-list"> 
+             <li><a href="/ler/gintama/online/387761/348" title="Ler o Capitulo 348 de Gintama online">348</a></li> 
+             <li><a href="/ler/gintama/online/387760/347" title="Ler o Capitulo 347 de Gintama online">347</a></li> 
+            </ul>
+            <img src="/assets/images/layout/lancamento-scan.png" alt="Scanlator"> 
+            <a href="/scanlator/yorozuya-scan/1328" class="lancamento-scan"> Yorozuya Scan</a>
+           </div></li> 
+          <li>
+           <div class="cover-image"> 
+            <picture> 
+             <source srcset="https://static3.mangalivre.net/capas/qwQ3vyjifjcyJLKAmGIk0Q/1278/thumb_dice_1.png.avif" type="image/avif"> 
+             <img src="https://static3.mangalivre.net/capas/Lg85IkBjw1Fha16gwMaUQQ/1278/thumb_dice_1.png" referrerpolicy="no-referrer"> 
+            </picture> 
+            <a href="/manga/dice-the-cube-that-changes-everything/1278" class="link-block" title="Ler DICE: The Cube that Changes Everything Online" style="display:block; height:100% !important"></a>
+           </div>
+           <div class="lancamento-desc">
+            <a href="/manga/dice-the-cube-that-changes-everything/1278" title="Ler DICE: The Cube that Changes Everything Capitulo 358"><h1><span class="lancamento-title">DICE: The Cube that Changes Everything</span></h1></a>
+            <ul class="lancamento-list"> 
+             <li><a href="/ler/dice-the-cube-that-changes-everything/online/387759/358" title="Ler o Capitulo 358 de DICE: The Cube that Changes Everything online">358</a></li> 
+            </ul>
+            <img src="/assets/images/layout/lancamento-scan.png" alt="Scanlator"> 
+            <a href="/scanlator/fudido-scanlator/1182" class="lancamento-scan"> Fudido Scanlator</a>
+           </div></li> 
+          <li>
+           <div class="cover-image"> 
+            <picture> 
+             <source srcset="https://static3.mangalivre.net/capas/EXHDMV6G8jq07td5ygA97g/12103/thumb_6037d066896c4external_cover.jpg.avif" type="image/avif"> 
+             <img src="https://static3.mangalivre.net/capas/YyBXZNclIYb3DeZlL8uOjg/12103/thumb_6037d066896c4external_cover.jpg" referrerpolicy="no-referrer"> 
+            </picture> 
+            <a href="/manga/it-all-starts-with-playing-game-seriously/12103" class="link-block" title="Ler It All Starts With Playing Game Seriously Online" style="display:block; height:100% !important"></a>
+           </div>
+           <div class="lancamento-desc">
+            <a href="/manga/it-all-starts-with-playing-game-seriously/12103" title="Ler It All Starts With Playing Game Seriously Capitulo 58~59"><h1><span class="lancamento-title">It All Starts With Playing Game Seriously</span></h1></a>
+            <ul class="lancamento-list"> 
+             <li><a href="/ler/it-all-starts-with-playing-game-seriously/online/387758/59" title="Ler o Capitulo 59 de It All Starts With Playing Game Seriously online">59</a></li> 
+             <li><a href="/ler/it-all-starts-with-playing-game-seriously/online/387597/58" title="Ler o Capitulo 58 de It All Starts With Playing Game Seriously online">58</a></li> 
+            </ul>
+            <img src="/assets/images/layout/lancamento-scan.png" alt="Scanlator"> 
+            <a href="/scanlator/nazarick-scan/1799" class="lancamento-scan"> Nazarick Scan</a>
+           </div></li> 
+          <li>
+           <div class="cover-image"> 
+            <picture> 
+             <source srcset="https://static3.mangalivre.net/capas/NJ5pjVmO9m-GGjz-0NBPIA/15372/blurred_thumb_62a144f589088_capa.jpg.avif" type="image/avif"> 
+             <img src="https://static3.mangalivre.net/capas/zcBSQXcsSaFNr6BqSalZxg/15372/blurred_thumb_62a144f589088_capa.jpg" referrerpolicy="no-referrer"> 
+            </picture> 
+            <a href="/manga/neon-genesis-evangelion---epilogue-of-evangelion-doujinshi/15372" class="link-block" title="Ler Neon Genesis Evangelion - Epilogue of Evangelion (Doujinshi) Online" style="display:block; height:100% !important"></a>
+           </div>
+           <div class="lancamento-desc">
+            <a href="/manga/neon-genesis-evangelion---epilogue-of-evangelion-doujinshi/15372" title="Ler Neon Genesis Evangelion - Epilogue of Evangelion (Doujinshi) Capitulo 1~4"><h1><span class="lancamento-title">Neon Genesis Evangelion - Epilogue of Evangelion (Doujinshi)</span></h1></a>
+            <ul class="lancamento-list"> 
+             <li><a href="/ler/neon-genesis-evangelion---epilogue-of-evangelion-doujinshi/online/387757/4" title="Ler o Capitulo 4 de Neon Genesis Evangelion - Epilogue of Evangelion (Doujinshi) online">4</a></li> 
+             <li><a href="/ler/neon-genesis-evangelion---epilogue-of-evangelion-doujinshi/online/387709/3" title="Ler o Capitulo 3 de Neon Genesis Evangelion - Epilogue of Evangelion (Doujinshi) online">3</a></li> 
+             <li><a href="/ler/neon-genesis-evangelion---epilogue-of-evangelion-doujinshi/online/387604/2" title="Ler o Capitulo 2 de Neon Genesis Evangelion - Epilogue of Evangelion (Doujinshi) online">2</a></li> 
+             <li><a href="/ler/neon-genesis-evangelion---epilogue-of-evangelion-doujinshi/online/387598/1" title="Ler o Capitulo 1 de Neon Genesis Evangelion - Epilogue of Evangelion (Doujinshi) online">1</a></li> 
+            </ul>
+            <img src="/assets/images/layout/lancamento-scan.png" alt="Scanlator"> 
+            <a href="/scanlator/erushidesu-scans/2899" class="lancamento-scan"> Erushidesu Scans</a>
+           </div></li> 
+          <li>
+           <div class="cover-image"> 
+            <picture> 
+             <source srcset="https://static3.mangalivre.net/capas/KRInhFYwTLsPBhrb5CNLfQ/14879/thumb_622bae2a39cf9external_cover.jpg.avif" type="image/avif"> 
+             <img src="https://static3.mangalivre.net/capas/-61soLpE_oCAkktKRSeghw/14879/thumb_622bae2a39cf9external_cover.jpg" referrerpolicy="no-referrer"> 
+            </picture> 
+            <a href="/manga/this-girl-will-express-herself-in-100-days/14879" class="link-block" title="Ler This Girl Will Express Herself in 100 Days Online" style="display:block; height:100% !important"></a>
+           </div>
+           <div class="lancamento-desc">
+            <a href="/manga/this-girl-will-express-herself-in-100-days/14879" title="Ler This Girl Will Express Herself in 100 Days Capitulo 59~60"><h1><span class="lancamento-title">This Girl Will Express Herself in 100 Days</span></h1></a>
+            <ul class="lancamento-list"> 
+             <li><a href="/ler/this-girl-will-express-herself-in-100-days/online/387750/60" title="Ler o Capitulo 60 de This Girl Will Express Herself in 100 Days online">60</a></li> 
+             <li><a href="/ler/this-girl-will-express-herself-in-100-days/online/387749/59" title="Ler o Capitulo 59 de This Girl Will Express Herself in 100 Days online">59</a></li> 
+            </ul>
+            <img src="/assets/images/layout/lancamento-scan.png" alt="Scanlator"> 
+            <a href="/scanlator/bakashi/2609" class="lancamento-scan"> Bakashi</a>
+           </div></li> 
+          <li>
+           <div class="cover-image"> 
+            <picture> 
+             <source srcset="https://static3.mangalivre.net/capas/RAGI_86nOCNE8iixvLTvlw/11565/thumb_5fe9f6e635df0external_cover.jpg.avif" type="image/avif"> 
+             <img src="https://static3.mangalivre.net/capas/84mM4v3oxeGT4lDr_04WRA/11565/thumb_5fe9f6e635df0external_cover.jpg" referrerpolicy="no-referrer"> 
+            </picture> 
+            <a href="/manga/yeonwoos-innocence/11565" class="link-block" title="Ler Yeonwoo's Innocence Online" style="display:block; height:100% !important"></a>
+           </div>
+           <div class="lancamento-desc">
+            <a href="/manga/yeonwoos-innocence/11565" title="Ler Yeonwoo's Innocence Capitulo 61"><h1><span class="lancamento-title">Yeonwoo's Innocence</span></h1></a>
+            <ul class="lancamento-list"> 
+             <li><a href="/ler/yeonwoos-innocence/online/387748/61" title="Ler o Capitulo 61 de Yeonwoo's Innocence online">61</a></li> 
+            </ul>
+            <img src="/assets/images/layout/lancamento-scan.png" alt="Scanlator"> 
+            <a href="/scanlator/minitwo-scan/1891" class="lancamento-scan"> MiniTwo Scan</a>
+           </div></li> 
+         </ul>
+        </div>
+        <div class="google-auto-placed" style="width: 100%; height: auto; clear: none; text-align: center;">
+         <ins data-ad-format="auto" class="adsbygoogle adsbygoogle-noablate" data-ad-client="ca-pub-4069487474431685" data-adsbygoogle-status="done" style="display: block; margin: 10px auto; background-color: transparent; height: 0px;" data-ad-status="unfilled"><ins id="aswift_3_expand" style="border: none; height: 0px; width: 716px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-table;" tabindex="0" title="Advertisement" aria-label="Advertisement"><ins id="aswift_3_anchor" style="border: none; height: 0px; width: 716px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: block; overflow: hidden; opacity: 0;"><iframe id="aswift_3" name="aswift_3" style="left: 0px; position: absolute; top: 0px; border: 0px; width: 716px; height: 0px;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="716" height="0" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" src="https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-4069487474431685&amp;output=html&amp;h=280&amp;adk=1495344744&amp;adf=1848878701&amp;pi=t.aa~a.4007845568~rp.4&amp;w=716&amp;fwrn=4&amp;fwrnh=100&amp;lmt=1655002458&amp;rafmt=1&amp;to=qs&amp;pwprc=7184515305&amp;psa=0&amp;format=716x280&amp;url=https%3A%2F%2Fmangalivre.net%2F&amp;fwr=0&amp;pra=3&amp;rpe=1&amp;resp_fmts=3&amp;wgl=1&amp;fa=40&amp;dt=1655002458337&amp;bpp=14&amp;bdt=10198&amp;idt=-M&amp;shv=r20220608&amp;mjsv=m202206080101&amp;ptt=9&amp;saldr=aa&amp;abxe=1&amp;cookie=ID%3D409ebc0ba3253f25-22a0e800587c0072%3AT%3D1655002455%3ART%3D1655002455%3AS%3DALNI_MYU3eTpSz7z-5uG5bbWjJXmh4nqSQ&amp;gpic=UID%3D000006b86b925c75%3AT%3D1655002455%3ART%3D1655002455%3AS%3DALNI_MbxMvv94LEsXtFUN9Ku5XmrygC0Fw&amp;prev_fmts=0x0%2C716x280%2C336x280&amp;nras=2&amp;correlator=4208141991514&amp;frm=20&amp;pv=1&amp;ga_vid=2043198976.1655002455&amp;ga_sid=1655002455&amp;ga_hid=253882783&amp;ga_fc=0&amp;u_tz=-180&amp;u_his=4&amp;u_h=1273&amp;u_w=716&amp;u_ah=1273&amp;u_aw=716&amp;u_cd=24&amp;u_sd=1.006&amp;dmc=2&amp;adx=0&amp;ady=3610&amp;biw=716&amp;bih=1147&amp;scr_x=0&amp;scr_y=0&amp;eid=44759876%2C44759927%2C44759837%2C44761043%2C31067971%2C31060048%2C31064019%2C31062931&amp;oid=2&amp;pvsid=673035743870095&amp;tmod=1715656847&amp;uas=0&amp;nvt=1&amp;eae=0&amp;fc=1920&amp;brdim=0%2C0%2C0%2C0%2C716%2C0%2C716%2C1147%2C717%2C1148&amp;vis=1&amp;rsz=%7C%7Cs%7C&amp;abl=NS&amp;fu=1152&amp;bc=31&amp;ifi=4&amp;uci=a!4&amp;btvi=3&amp;fsb=1&amp;xpc=DHTkiWXw7w&amp;p=https%3A//mangalivre.net&amp;dtd=224" data-google-container-id="a!4" data-google-query-id="CLy1y830pvgCFWoQ-QAd-gcMdA" data-load-complete="true"></iframe></ins></ins></ins>
+        </div>
+       </div> 
+       <div class="ad-container" style="height: auto !important;"> 
+        <h4>Publicidade</h4> 
+        <div class="ad-content"> 
+         <!-- mL - Home Rodape --> 
+         <ins class="adsbygoogle" style="display: block; height: 0px;" data-ad-client="ca-pub-4069487474431685" data-ad-slot="4685852295" data-ad-format="auto" data-full-width-responsive="true" data-adsbygoogle-status="done" data-ad-status="unfilled"><ins id="aswift_1_expand" style="border: none; height: 0px; width: 716px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-table;" tabindex="0" title="Advertisement" aria-label="Advertisement"><ins id="aswift_1_anchor" style="border: none; height: 0px; width: 716px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: block; overflow: hidden; opacity: 0;"><iframe id="aswift_1" name="aswift_1" style="left: 0px; position: absolute; top: 0px; border: 0px; width: 716px; height: 0px;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="716" height="0" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" src="https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-4069487474431685&amp;output=html&amp;h=280&amp;slotname=4685852295&amp;adk=999547774&amp;adf=1406858960&amp;pi=t.ma~as.4685852295&amp;w=716&amp;fwrn=4&amp;fwrnh=100&amp;lmt=1655002455&amp;rafmt=1&amp;psa=0&amp;format=716x280&amp;url=https%3A%2F%2Fmangalivre.net%2F&amp;fwr=0&amp;fwrattr=true&amp;rpe=1&amp;resp_fmts=3&amp;wgl=1&amp;dt=1655002450485&amp;bpp=18&amp;bdt=2347&amp;idt=5186&amp;shv=r20220608&amp;mjsv=m202206080101&amp;ptt=9&amp;saldr=aa&amp;abxe=1&amp;prev_fmts=0x0&amp;nras=1&amp;correlator=4208141991514&amp;frm=20&amp;pv=1&amp;ga_vid=2043198976.1655002455&amp;ga_sid=1655002455&amp;ga_hid=253882783&amp;ga_fc=0&amp;u_tz=-180&amp;u_his=4&amp;u_h=1273&amp;u_w=716&amp;u_ah=1273&amp;u_aw=716&amp;u_cd=24&amp;u_sd=1.006&amp;dmc=2&amp;adx=0&amp;ady=3364&amp;biw=716&amp;bih=1147&amp;scr_x=0&amp;scr_y=0&amp;eid=44759876%2C44759927%2C44759837%2C44761043%2C31067971%2C31060048%2C31064019%2C31062931&amp;oid=2&amp;pvsid=673035743870095&amp;tmod=1715656847&amp;uas=0&amp;nvt=1&amp;eae=0&amp;fc=1920&amp;brdim=0%2C0%2C0%2C0%2C716%2C0%2C716%2C1147%2C717%2C1148&amp;vis=1&amp;rsz=%7Co%7CEebr%7C&amp;abl=NS&amp;pfx=0&amp;fu=1152&amp;bc=31&amp;ifi=2&amp;uci=a!2&amp;btvi=1&amp;fsb=1&amp;xpc=iAsaJIFWXA&amp;p=https%3A//mangalivre.net&amp;dtd=5274" data-google-container-id="a!2" data-google-query-id="CJr-n8z0pvgCFXQI-QAd9bgL8Q" data-load-complete="true"></iframe></ins></ins></ins> 
+         <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+        </div> 
+       </div> 
+       <div class="loadmore"> 
+        <a class="loadmore" href="#" style=""><img src="/assets/images/layout/loadmore.png" alt="Mais lançamentos"></a> 
+        <a href="#" class="loading loadmore" style="display: none;"><img src="/assets/images/loading.png" alt="Carregando..."></a> 
+       </div> 
+      </div> 
+      <!-- CONTENT WRAPER --> 
+     </div> 
+     <!-- END LANÇAMENTOS --> 
+    </div> 
+    <!-- RIGHT SIDE --> 
+    <div id="right-side" style="height: auto !important;"> 
+     <!-- PUB TOPO --> 
+     <div class="rotating-tips clear-fix"> 
+      <a href="#" data-action="register" class="tip-container"> 
+       <ul class="slide-tips"> 
+        <li class="tip" style="display: none;" ;=""> <i class="icon-container"> 
+          <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 15.6 13.4" class="mp-icon favoritar-icon replaced-svg">
+           <path d="M7.8 2.9C5.8-1.7 0-0.6 0 4.7c0 3 2.7 4.1 4.6 5.2 1.8 1.1 3 2.7 3.2 3.4 0.2-0.7 1.6-2.3 3.2-3.4 1.8-1.3 4.6-2.3 4.6-5.2C15.5-0.7 9.7-1.5 7.8 2.9z"></path>
+          </svg> </i> <span class="tip-text"> Considere se tornar um usuário cadastrado... Isso lhe permitirá usufruir de zilhões de funcionalidades a mais! </span> </li> 
+        <li class="tip" style="display: none;"> <i class="icon-container"> 
+          <svg xmlns="http://www.w3.org/2000/svg" width="612" height="403" viewbox="0 0 612 402.6" class="mp-icon down-on-icon replaced-svg">
+           <path d="M495.8 401.3c-2.8 0.8-7.1 1.3-11.2 1.3l-347.7-0.3C60.5 399.6 0 337 0 259.8c0-73.5 56.8-134.9 128.9-142C161.6 45.9 232.3 0 312 0c86.2 0 162.9 55.6 190.4 136.5C565.6 148 612 202.9 612 268.4 612 335.2 562.1 392.4 495.8 401.3zM434.7 150.7l-23.1-23.1c-3.2-3.2-7-4.8-11.5-4.8 -4.5 0-8.4 1.6-11.5 4.8L277.3 239.3l-49.9-50.2c-3.2-3.2-7-4.8-11.5-4.8 -4.5 0-8.4 1.6-11.5 4.8l-23.1 23.1c-3.2 3.2-4.8 7-4.8 11.6 0 4.5 1.6 8.4 4.8 11.6l61.4 61.6 23.1 23.1c3.2 3.2 7 4.8 11.5 4.8 4.5 0 8.4-1.6 11.5-4.8l23.1-23.1 122.8-123.1c3.2-3.2 4.8-7 4.8-11.6C439.5 157.7 437.9 153.9 434.7 150.7z"></path>
+          </svg> </i> <span class="tip-text">Disponibilize capítulos para ler OFFLINE em seu celular, basta ser um usuário cadastrado!</span> </li> 
+        <li class="tip active" style="display: list-item;"> <i class="icon-container"> 
+          <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 26.7 31.7" class="mp-icon user-icon replaced-svg">
+           <path d="M26.3 31.7c-1.4-0.7-4.3-2.4-4.3-4.7l0 0V21.3c-1.5-0.2-2-0.8-2-0.8 -4.5-2.2-4.2 1.2-4.2 1.2v2.8L14 28h-1l-2-4h0v-2.3c0 0 0.4-3.4-4.2-1.2 0 0-0.5 0.6-2 0.8v6.4c-0.4 0.8-1.5 2.3-4.2 4C0.2 31.7 0 31.7 0 31.7V17.8c3-0.5 4.3-1.5 4.3-1.5 1.7-0.8 3.2-1.2 4.4-1.3C7.1 13.5 6 11.1 6 8.5c0-4.7 3.4-8.5 7.5-8.5 4.1 0 7.5 3.8 7.5 8.5 0 2.6-1.1 5-2.7 6.6 1.2 0.1 2.5 0.5 4.2 1.3 0 0 1.3 1 4.3 1.5V31.7C26.7 31.7 26.6 31.7 26.3 31.7z"></path>
+          </svg> </i> <span class="tip-text">Gerenciador de séries! Histórico de leitura! Marcador de páginas! Notificações de lançamento! Tenha todas essas facilidades ao se cadastrar...</span> </li> 
+        <li class="tip"> <i class="icon-container"> 
+          <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 612 351.7" class="mp-icon glasses-icon replaced-svg">
+           <path d="M592.5 199.6h-4.7c3 7.3 4.7 15.3 4.7 23.7 0 70.8-57.7 128.4-128.6 128.4 -60.4 0-111-41.8-124.8-97.9 -3.5-14.1-16.1-24.1-30.6-24.1h-0.1c-15.4 0-28.8 10.4-32.6 25.3 -14.2 55.5-64.5 96.6-124.4 96.6 -70.9 0-128.6-57.6-128.6-128.4 0-8.4 1.7-16.4 4.7-23.7h-8C8.8 199.6 0 190.9 0 180.1c0-10.8 8.8-19.5 19.5-19.5h572.9c10.8 0 19.5 8.7 19.5 19.5C612 190.9 603.2 199.6 592.5 199.6zM217.2 199.6H85.6c-13.1 0-23.7 10.6-23.7 23.7 0 49.3 40.2 89.4 89.5 89.4 49.4 0 89.5-40.1 89.5-89.4C240.9 210.2 230.2 199.6 217.2 199.6zM529.7 199.6H398.1c-13.1 0-23.7 10.6-23.7 23.7 0 49.3 40.2 89.4 89.5 89.4 49.3 0 89.5-40.1 89.5-89.4C553.4 210.2 542.8 199.6 529.7 199.6zM451.3 59.3c-7.4-10-18.8-16.6-31.2-18.1 -12.4-1.5-25 2.2-34.7 10.1l-20.9 17.1c-8.7 7.1-21.5 5.9-28.7-2.8 -7.2-8.7-5.9-21.6 2.8-28.7l20.9-17.1C377.7 4.7 401.6-2.3 425 0.7c23.4 2.9 45 15.4 59 34.3l78.3 105.2h-50.9L451.3 59.3zM247.6 68.3l-20.9-17.1c-9.7-7.9-22.3-11.5-34.7-10 -12.4 1.5-23.8 8.1-31.2 18.1l-60.2 80.9H49.8l78.3-105.2c14.1-18.9 35.6-31.4 59-34.3 23.4-2.9 47.3 4 65.6 19l20.9 17.1c8.7 7.2 10 20 2.8 28.7C269.2 74.2 256.4 75.4 247.6 68.3z"></path>
+          </svg> </i> <span class="tip-text"><strong>Os leitores mais experientes recomendam:</strong> Torne-se um usuário cadastrado para melhor organizar suas séries favoritas!</span> </li> 
+        <li class="tip"> <i class="icon-container"> 
+          <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 196.9 457.5" class="mp-icon tag-icon replaced-svg">
+           <path paint-order="stroke" d="M175.5 0H21.5C9.6 0 0 9.7 0 21.5v425.5c0 11.8 6.1 14.1 13.6 4.9 0 0 56.2-68.6 70.5-87.7 14.3-19.1 15.7-21.2 32.9 0 17.3 21.2 66.9 87.3 66.9 87.3 7.2 9.4 12.9 7.5 12.9-4.3V21.5C197 9.7 187.3 0 175.5 0z"></path>
+          </svg> </i> <span class="tip-text">Saiba exatamente quais séries e quais capítulos você já leu... E ainda, recomece a ler seus capítulos exatamente das páginas em que parou!</span> </li> 
+        <li class="tip"> <i class="icon-container"> 
+          <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewbox="0 0 52.8 36.2" class="mp-icon views-icon replaced-svg">
+           <path paint-order="stroke" d="M26.3 34.3C15.4 34.3 7 27.8 1.5 20.6c4.4-9.9 12.1-18.7 24.8-18.7 12.7-0.1 20.5 8.8 24.8 18.5C45.1 27.6 37.2 34.2 26.3 34.3zM26.3 6.9c-9 0-15.4 5-17.9 13.1 4.2 5.7 9.8 10.3 17.5 10.2 7.7 0 16.1-4.6 18.5-10.4C41.7 12.5 35.3 6.9 26.3 6.9zM26.8 27.6c-5.2 0-9.5-4-9.5-9 0-1.5 0.4-2.9 1.1-4.1 0.3 2.1 2.2 3.7 4.4 3.7 2.5 0 4.5-1.9 4.5-4.3 0-1.8-1.2-3.3-2.9-4 0.8-0.2 1.6-0.3 2.4-0.3 5.2 0 9.5 4 9.5 9S32.1 27.6 26.8 27.6z"></path>
+          </svg> </i> <span class="tip-text">Conheça a melhor forma de acompanhar suas séries preferidas se tornando um usuário cadastrado!</span> </li> 
+        <li class="tip"> <i class="icon-container"> 
+          <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 510 510" class="mp-icon bell-icon replaced-svg">
+           <path d="M255 510c28.1 0 51-22.9 51-51H204C204 487.1 227 510 255 510zM420.8 357V216.8c0-79-53.5-142.8-127.5-160.6V38.3C293.3 17.9 275.4 0 255 0c-20.4 0-38.2 17.9-38.2 38.3V56.1c-73.9 17.9-127.5 81.6-127.5 160.7V357l-51 51v25.5h433.5V408L420.8 357z"></path>
+          </svg> </i> <span class="tip-text">Receba notificações de lançamento de suas séries preferidas! Basta se cadastrar e favoritar as séries que acompanha!</span> </li> 
+        <li class="tip"> <i class="icon-container"> 
+          <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 510 510" class="mp-icon bell-icon replaced-svg">
+           <path d="M255 510c28.1 0 51-22.9 51-51H204C204 487.1 227 510 255 510zM420.8 357V216.8c0-79-53.5-142.8-127.5-160.6V38.3C293.3 17.9 275.4 0 255 0c-20.4 0-38.2 17.9-38.2 38.3V56.1c-73.9 17.9-127.5 81.6-127.5 160.7V357l-51 51v25.5h433.5V408L420.8 357z"></path>
+          </svg> </i> <span class="tip-text"><strong>Notificações de lançamento direto em seu computador ou celular?!</strong> Basta se cadastrar e favoritar as séries que acompanha!</span> </li> 
+        <li class="tip"> <i class="icon-container"> 
+          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewbox="0 0 388.416 585.977" style="enable-background:new 0 0 388.416 585.977;" xml:space="preserve" class="mp-icon light-icon replaced-svg"> 
+           <path d="M183.527,0.316C81.799,5.818,1.205,90.133,0.011,192.268c-0.478,44.968,14.686,89.099,42.864,124.021  c36.058,44.729,55.879,102.015,55.879,161.095c0,13.514,10.865,24.398,24.357,24.398h142.204c13.492,0,24.357-10.883,24.357-24.398  c0-60.037,19.462-116.725,54.685-159.541c28.417-34.683,44.058-78.455,44.058-123.303C388.536,83.675,295.762-6.022,183.527,0.316z   M306.747,286.748c-37.491,45.686-60.177,103.929-64.834,166.238h-95.28c-4.776-61.472-27.701-120.074-65.789-167.314  c-21.372-26.55-32.476-58.602-32.118-92.806c0.836-75.226,62.446-139.807,137.309-143.874  c84.176-4.784,153.666,62.429,153.666,145.548C339.701,228.146,328,260.916,306.747,286.748z"></path> 
+           <path d="M261.376,537.182H127.171c-13.492,0-24.357,10.883-24.357,24.398c0,13.514,10.865,24.398,24.357,24.398h134.205  c13.492,0,24.357-10.883,24.357-24.398C285.733,548.065,274.868,537.182,261.376,537.182z"></path> 
+          </svg> </i> <span class="tip-text">Esse site possui funcionalidades fantásticas que você nem imagina! Crie sua conta para aproveitar o máximo de nossa plataforma!</span> </li> 
+        <li class="tip"> <i class="icon-container"> 
+          <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewbox="0 0 415.6 323.6" class="mp-icon lido-icon replaced-svg">
+           <path paint-order="stroke" d="M411.5 50.4L365.2 4.1c-5.5-5.5-14.4-5.5-19.9 0L152.4 197.1 70.3 115c-5.5-5.5-14.4-5.5-19.9 0L4.1 161.3c-5.5 5.5-5.5 14.4 0 19.9l138.3 138.3c2.7 2.7 6.3 4.1 9.9 4.1 3.6 0 7.2-1.4 9.9-4.1L411.5 70.3c2.6-2.6 4.1-6.2 4.1-9.9C415.6 56.6 414.2 53.1 411.5 50.4z"></path>
+          </svg> </i> <span class="tip-text">Marque as séries e os capítulos que já leu, e comece a ler exatamente de onde parou!</span> </li> 
+        <li class="tip"> <i class="icon-container"> 
+          <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 30.1 36" class="mp-icon capitulos-icon replaced-svg">
+           <path d="M27.1 36c-1.7 0-3-1.3-3-3v-30c0-1.7 1.3-3 3-3 1.7 0 3 1.3 3 3v30C30.1 34.7 28.7 36 27.1 36zM18.1 36c-1.7 0-3-1.3-3-3v-30c0-1.7 1.3-3 3-3 1.7 0 3 1.3 3 3v30C21.1 34.7 19.7 36 18.1 36zM5.9 33.3c-0.3 1.6-1.9 2.7-3.5 2.3 -1.6-0.3-2.7-1.9-2.3-3.5l6.1-29.4C6.5 1.1 8.1 0 9.7 0.4c1.6 0.3 2.7 1.9 2.3 3.5L5.9 33.3z"></path>
+          </svg> </i> <span class="tip-text">Esqueceu o nome da série que estava lendo? Sem problemas, usuários cadastrados possuem o histórico completo de suas leituras!</span> </li> 
+        <li class="tip"> <i class="icon-container"> 
+          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewbox="0 0 510 510" style="enable-background:new 0 0 510 510;" xml:space="preserve" class="mp-icon comments-icon replaced-svg"> 
+           <path d="M51,0h408c28.05,0,51,22.95,51,51v459L408,408H51c-28.05,0-51-22.95-51-51V51C0,22.95,22.95,0,51,0z"></path> 
+          </svg> </i> <span class="tip-text">Seja o primeiro a saber quando sua série favorita for lançada! Receba notificações de lançamento se tornando um usuário cadastrado...</span> </li> 
+        <div> 
+         <span class="tip-button-container"> <span class="tip-button"> Okay, vamos lá! 
+           <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 9.8 14" class="mp-icon arrow-icon right replaced-svg">
+            <path d="M0.6 0.6c-0.8 0.8-0.8 2 0 2.8L4.2 7l-3.6 3.6c-0.8 0.8-0.8 2 0 2.8C1 13.8 1.5 14 2 14s1-0.2 1.4-0.6L9.8 7 3.4 0.6C2.6-0.2 1.4-0.2 0.6 0.6z"></path>
+           </svg> </span> </span> 
+        </div> 
+       </ul> </a> 
+     </div> 
+     <!-- TOP SERIES --> 
+     <div id="top-series" class="container-box"> 
+      <div class="main-bg-image"></div> 
+      <div class="pattern-x"></div> 
+      <div class="content-wraper touchcarousel"> 
+       <h2>Títulos Mais Lidos</h2> 
+       <a href="/lista-de-mangas/ordenar-por-numero-de-leituras/todos/desde-o-comeco" class="arrow" title="Mangás Mais Lidos"><img src="assets/images/layout/arrow.png" alt="arrow"></a> 
+       <div class="rank-list rankcarousel" style="clear: both; overflow: visible;"> 
+        <div class="touchcarousel-wrapper">
+         <ul class="top-series touchcarousel-container rank-list-container" style="clear: both; transform-origin: 0px 0px; transform: translate3d(171px, 0px, 0px); width: 550px;"> 
+          <li class="touchcarousel-item">
+           <div class="item">
+            <a href="/manga/martial-peak/7302" title="Leia Martial Peak Online!"><span class="series-title"><h1>Martial Peak</h1></span> 
+             <div class="cover-image"> 
+              <picture> 
+               <source srcset="https://static3.mangalivre.net/capas/EpZbTckaGAHxmSDJG_LSEg/7302/thumb_6022e659a8e56external_cover.jpg.avif" type="image/avif"> 
+               <img src="https://static3.mangalivre.net/capas/nfwsZIwmMBIDkYbGdLZICQ/7302/thumb_6022e659a8e56external_cover.jpg" referrerpolicy="no-referrer"> 
+              </picture> 
+             </div><span class="top-rank"><b>#</b>01 <span class="nviews"></span></span></a>
+           </div></li>
+          <li class="touchcarousel-item">
+           <div class="item">
+            <a href="/manga/tales-of-demons-and-gods/2412" title="Leia Tales Of Demons And Gods Online!"><span class="series-title"><h1>Tales Of Demons And Gods</h1></span> 
+             <div class="cover-image"> 
+              <picture> 
+               <source srcset="https://static3.mangalivre.net/capas/fVZeoZzNn8P7x0dyj_QNjA/2412/thumb_external_cover.jpg.avif" type="image/avif"> 
+               <img src="https://static3.mangalivre.net/capas/QMppHfs7kD7twAq97HRz3g/2412/thumb_external_cover.jpg" referrerpolicy="no-referrer"> 
+              </picture> 
+             </div><span class="top-rank"><b>#</b>02 <span class="nviews"></span></span></a>
+           </div></li>
+          <li class="touchcarousel-item">
+           <div class="item">
+            <a href="/manga/solo-leveling/7702" title="Leia Solo Leveling Online!"><span class="series-title"><h1>Solo Leveling</h1></span> 
+             <div class="cover-image"> 
+              <picture> 
+               <source srcset="https://static3.mangalivre.net/capas/qCFADMTJk0EMOLBHMVtJww/7702/thumb_602ef3532b765external_cover.jpg.avif" type="image/avif"> 
+               <img src="https://static3.mangalivre.net/capas/vD_Y_KEvhuRThhg00krrEg/7702/thumb_602ef3532b765external_cover.jpg" referrerpolicy="no-referrer"> 
+              </picture> 
+             </div><span class="top-rank"><b>#</b>03 <span class="nviews"></span></span></a>
+           </div></li>
+          <li class="touchcarousel-item">
+           <div class="item">
+            <a href="/manga/tokyo-revengers/6950" title="Leia Tokyo Revengers Online!"><span class="series-title"><h1>Tokyo Revengers</h1></span> 
+             <div class="cover-image"> 
+              <picture> 
+               <source srcset="https://static3.mangalivre.net/capas/jBWnizT_1D-zcdeZTE1iSg/6950/thumb_613881e16f42fexternal_cover.jpg.avif" type="image/avif"> 
+               <img src="https://static3.mangalivre.net/capas/poZuh-Yh0U6Yeemk0BTlEw/6950/thumb_613881e16f42fexternal_cover.jpg" referrerpolicy="no-referrer"> 
+              </picture> 
+             </div><span class="top-rank"><b>#</b>04 <span class="nviews"></span></span></a>
+           </div></li>
+          <li class="touchcarousel-item last">
+           <div class="item">
+            <a href="/manga/kimetsu-no-yaiba/3364" title="Leia Kimetsu no Yaiba Online!"><span class="series-title"><h1>Kimetsu no Yaiba</h1></span> 
+             <div class="cover-image"> 
+              <picture> 
+               <source srcset="https://static3.mangalivre.net/capas/0Wp6gwywnzRpaUVjPHDGBw/3364/thumb_6037ed57c7fd3external_cover.jpg.avif" type="image/avif"> 
+               <img src="https://static3.mangalivre.net/capas/uWseVnIH43HyNuIP-Vm4ZA/3364/thumb_6037ed57c7fd3external_cover.jpg" referrerpolicy="no-referrer"> 
+              </picture> 
+             </div><span class="top-rank"><b>#</b>05 <span class="nviews"></span></span></a>
+           </div></li>
+         </ul>
+        </div> 
+       </div> 
+       <div class="loadmore"> 
+        <a class="loadmore" href="#" style=""><img src="/assets/images/layout/loadmore.png" alt="Mais lançamentos"></a> 
+        <a href="#" class="loading loadmore" style="display: none;"><img src="/assets/images/loading.png" alt="Carregando..."></a> 
+       </div> 
+      </div> 
+     </div> 
+     <!-- TOP SERIES --> 
+     <div class="container-box box-calhaw ad-box" style="margin-top: -15px; padding-top: 1px; height: auto !important;"> 
+      <div class="main-bg-image" style="background-size: unset;"></div> 
+      <div class="pattern-stripes-right"></div> 
+      <!-- CONTENT WRAPER --> 
+      <div class="content-wraper" style="height: auto !important;"> 
+       <div class="ad-container" style="height: auto !important;"> 
+        <h4>Publicidade</h4> 
+        <div class="ad-content" style="max-width: 336px; max-height: 0px; margin: 20px auto 10px;"> 
+         <!-- mL - Home Square --> 
+         <ins class="adsbygoogle" style="display: block; height: 0px;" data-ad-client="ca-pub-4069487474431685" data-ad-slot="9802447604" data-ad-format="auto" data-full-width-responsive="true" data-adsbygoogle-status="done" data-ad-status="unfilled"><ins id="aswift_2_expand" style="border: none; height: 0px; width: 336px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-table;" tabindex="0" title="Advertisement" aria-label="Advertisement"><ins id="aswift_2_anchor" style="border: none; height: 0px; width: 336px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: block; overflow: hidden; opacity: 0;"><iframe id="aswift_2" name="aswift_2" style="left: 0px; position: absolute; top: 0px; border: 0px; width: 336px; height: 0px;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="336" height="0" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" src="https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-4069487474431685&amp;output=html&amp;h=280&amp;slotname=9802447604&amp;adk=4051869313&amp;adf=3597319276&amp;pi=t.ma~as.9802447604&amp;w=336&amp;fwrn=4&amp;fwrnh=100&amp;lmt=1655002456&amp;rafmt=1&amp;psa=0&amp;format=336x280&amp;url=https%3A%2F%2Fmangalivre.net%2F&amp;fwr=0&amp;fwrattr=true&amp;rpe=1&amp;resp_fmts=3&amp;wgl=1&amp;dt=1655002450504&amp;bpp=8&amp;bdt=2366&amp;idt=5647&amp;shv=r20220608&amp;mjsv=m202206080101&amp;ptt=9&amp;saldr=aa&amp;abxe=1&amp;prev_fmts=0x0%2C716x280&amp;nras=1&amp;correlator=4208141991514&amp;frm=20&amp;pv=1&amp;ga_vid=2043198976.1655002455&amp;ga_sid=1655002455&amp;ga_hid=253882783&amp;ga_fc=0&amp;u_tz=-180&amp;u_his=4&amp;u_h=1273&amp;u_w=716&amp;u_ah=1273&amp;u_aw=716&amp;u_cd=24&amp;u_sd=1.006&amp;dmc=2&amp;adx=190&amp;ady=4316&amp;biw=716&amp;bih=1147&amp;scr_x=0&amp;scr_y=0&amp;eid=44759876%2C44759927%2C44759837%2C44761043%2C31067971%2C31060048%2C31064019%2C31062931&amp;oid=2&amp;pvsid=673035743870095&amp;tmod=1715656847&amp;uas=0&amp;nvt=1&amp;eae=0&amp;fc=1920&amp;brdim=0%2C0%2C0%2C0%2C716%2C0%2C716%2C1147%2C717%2C1148&amp;vis=1&amp;rsz=M%7Co%7CEebr%7C&amp;abl=NS&amp;pfx=0&amp;fu=1152&amp;bc=31&amp;ifi=3&amp;uci=a!3&amp;btvi=2&amp;fsb=1&amp;xpc=HACotxLTJ6&amp;p=https%3A//mangalivre.net&amp;dtd=5704" data-google-container-id="a!3" data-google-query-id="CMbMu8z0pvgCFTEQ-QAdulEP2Q" data-load-complete="true"></iframe></ins></ins></ins> 
+         <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+        </div> 
+       </div> 
+       <!-- END RESPONSIVE BANNER --> 
+       <ins class="zlx-calhaw" data-height="280" data-width="336"></ins> 
+      </div> 
+      <!-- END CONTENT WRAPER --> 
+     </div> 
+     <div class="container-box box-calhaw home-forum-box"> 
+      <div class="main-bg-image"></div> 
+      <!-- CONTENT WRAPER --> 
+      <div class="content-wraper"> 
+       <a href="/forum"> 
+        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px"
